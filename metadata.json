@@ -1,0 +1,6 @@
+{
+  "name": "AutoValuate India — Car & Bike Real Price & Upload Hub",
+  "description": "Identify the real market price of cars and bikes in India. Featuring all Indian car brands, variants, RTO city values, and instant car photo upload for inspection and valuation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

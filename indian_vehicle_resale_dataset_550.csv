@@ -1,0 +1,908 @@
+id,brand,model,type,year,age_years,km_driven,fuel,transmission,owner,city,rto_code,ex_showroom_inr,fair_resale_inr
+1,"Maruti Suzuki","Swift",Car,2016,10,115000,Petrol,"Manual","1st Owner","New Delhi / NCR",DL-01/08,649000,120528
+2,"Maruti Suzuki","Swift",Car,2019,7,80500,CNG,"AMT","2nd Owner","Chennai",TN-01/02/07,765820,191329
+3,"Maruti Suzuki","Swift",Car,2022,4,46000,Petrol,"Manual","3rd Owner","Jaipur",RJ-14,882640,375741
+4,"Maruti Suzuki","Baleno",Car,2016,10,115000,Petrol,"Manual","1st Owner","New Delhi / NCR",DL-01/08,666000,123792
+5,"Maruti Suzuki","Baleno",Car,2019,7,80500,CNG,"AMT","2nd Owner","Chennai",TN-01/02/07,785880,196415
+6,"Maruti Suzuki","Baleno",Car,2022,4,46000,Petrol,"Manual","3rd Owner","Jaipur",RJ-14,905760,385620
+7,"Maruti Suzuki","Brezza",Car,2016,10,115000,Petrol,"Manual","1st Owner","New Delhi / NCR",DL-01/08,834000,156048
+8,"Maruti Suzuki","Brezza",Car,2019,7,80500,CNG,"Automatic (AT/CVT)","2nd Owner","Chennai",TN-01/02/07,984120,246679
+9,"Maruti Suzuki","Brezza",Car,2022,4,46000,Petrol,"Manual","3rd Owner","Jaipur",RJ-14,1134240,483246
+10,"Maruti Suzuki","Grand Vitara",Car,2016,10,115000,Petrol,"Manual","1st Owner","New Delhi / NCR",DL-01/08,1087000,204624
+11,"Maruti Suzuki","Grand Vitara",Car,2019,7,80500,Hybrid,"Automatic (AT/CVT)","2nd Owner","Chennai",TN-01/02/07,1282660,322375
+12,"Maruti Suzuki","Grand Vitara",Car,2022,4,46000,CNG,"Manual","3rd Owner","Jaipur",RJ-14,1478320,630266
+13,"Maruti Suzuki","Dzire",Car,2016,10,115000,Petrol,"Manual","1st Owner","New Delhi / NCR",DL-01/08,657000,122064
+14,"Maruti Suzuki","Dzire",Car,2019,7,80500,CNG,"AMT","2nd Owner","Chennai",TN-01/02/07,775260,193722
+15,"Maruti Suzuki","Dzire",Car,2022,4,46000,Petrol,"Manual","3rd Owner","Jaipur",RJ-14,893520,380390
+16,"Maruti Suzuki","Fronx",Car,2016,10,115000,Petrol,"Manual","1st Owner","New Delhi / NCR",DL-01/08,751000,140112
+17,"Maruti Suzuki","Fronx",Car,2019,7,80500,CNG,"Automatic (AT/CVT)","2nd Owner","Chennai",TN-01/02/07,886180,221846
+18,"Maruti Suzuki","Fronx",Car,2022,4,46000,Petrol,"Manual","3rd Owner","Jaipur",RJ-14,1021360,435014
+19,"Maruti Suzuki","Jimny 4x4",Car,2016,10,115000,Petrol,"Manual","1st Owner","New Delhi / NCR",DL-01/08,1274000,240528
+20,"Maruti Suzuki","Jimny 4x4",Car,2019,7,80500,Petrol,"Automatic (AT/CVT)","2nd Owner","Chennai",TN-01/02/07,1503320,378323
+21,"Maruti Suzuki","Jimny 4x4",Car,2022,4,46000,Petrol,"Manual","3rd Owner","Jaipur",RJ-14,1732640,738932
+22,"Maruti Suzuki","Ertiga",Car,2016,10,115000,Petrol,"Manual","1st Owner","New Delhi / NCR",DL-01/08,869000,162768
+23,"Maruti Suzuki","Ertiga",Car,2019,7,80500,CNG,"Automatic (AT/CVT)","2nd Owner","Chennai",TN-01/02/07,1025420,257151
+24,"Maruti Suzuki","Ertiga",Car,2022,4,46000,Petrol,"Manual","3rd Owner","Jaipur",RJ-14,1181840,503584
+25,"Maruti Suzuki","XL6",Car,2016,10,115000,Petrol,"Manual","1st Owner","New Delhi / NCR",DL-01/08,1161000,218832
+26,"Maruti Suzuki","XL6",Car,2019,7,80500,CNG,"Automatic (AT/CVT)","2nd Owner","Chennai",TN-01/02/07,1369980,344515
+27,"Maruti Suzuki","XL6",Car,2022,4,46000,Petrol,"Manual","3rd Owner","Jaipur",RJ-14,1578960,673267
+28,"Maruti Suzuki","Invicto",Car,2016,10,115000,Hybrid,"Automatic (AT/CVT)","1st Owner","New Delhi / NCR",DL-01/08,2521000,479952
+29,"Maruti Suzuki","Invicto",Car,2019,7,80500,Hybrid,"Automatic (AT/CVT)","2nd Owner","Chennai",TN-01/02/07,2974780,751415
+30,"Maruti Suzuki","Invicto",Car,2022,4,46000,Hybrid,"Automatic (AT/CVT)","3rd Owner","Jaipur",RJ-14,3428560,1463572
+31,"Maruti Suzuki","Alto K10",Car,2016,10,115000,Petrol,"Manual","1st Owner","New Delhi / NCR",DL-01/08,399000,72528
+32,"Maruti Suzuki","Alto K10",Car,2019,7,80500,CNG,"AMT","2nd Owner","Chennai",TN-01/02/07,470820,116531
+33,"Maruti Suzuki","Alto K10",Car,2022,4,46000,Petrol,"Manual","3rd Owner","Jaipur",RJ-14,542640,230464
+34,"Maruti Suzuki","WagonR",Car,2016,10,115000,Petrol,"Manual","1st Owner","New Delhi / NCR",DL-01/08,554000,102288
+35,"Maruti Suzuki","WagonR",Car,2019,7,80500,CNG,"AMT","2nd Owner","Chennai",TN-01/02/07,653720,162906
+36,"Maruti Suzuki","WagonR",Car,2022,4,46000,Petrol,"Manual","3rd Owner","Jaipur",RJ-14,753440,320536
+37,"Maruti Suzuki","Celerio",Car,2016,10,115000,Petrol,"Manual","1st Owner","New Delhi / NCR",DL-01/08,536000,98832
+38,"Maruti Suzuki","Celerio",Car,2019,7,80500,CNG,"AMT","2nd Owner","Chennai",TN-01/02/07,632480,157520
+39,"Maruti Suzuki","Celerio",Car,2022,4,46000,Petrol,"Manual","3rd Owner","Jaipur",RJ-14,728960,310076
+40,"Maruti Suzuki","Ignis",Car,2016,10,115000,Petrol,"Manual","1st Owner","New Delhi / NCR",DL-01/08,584000,108048
+41,"Maruti Suzuki","Ignis",Car,2019,7,80500,Petrol,"AMT","2nd Owner","Chennai",TN-01/02/07,689120,171881
+42,"Maruti Suzuki","Ignis",Car,2022,4,46000,Petrol,"Manual","3rd Owner","Jaipur",RJ-14,794240,337969
+43,"Maruti Suzuki","Ciaz",Car,2016,10,115000,Petrol,"Manual","1st Owner","New Delhi / NCR",DL-01/08,940000,176400
+44,"Maruti Suzuki","Ciaz",Car,2019,7,80500,Petrol,"Automatic (AT/CVT)","2nd Owner","Chennai",TN-01/02/07,1109200,278393
+45,"Maruti Suzuki","Ciaz",Car,2022,4,46000,Petrol,"Manual","3rd Owner","Jaipur",RJ-14,1278400,544843
+46,"Maruti Suzuki","Eeco",Car,2016,10,115000,Petrol,"Manual","1st Owner","New Delhi / NCR",DL-01/08,532000,98064
+47,"Maruti Suzuki","Eeco",Car,2019,7,80500,CNG,"Manual","2nd Owner","Chennai",TN-01/02/07,627760,156323
+48,"Maruti Suzuki","Eeco",Car,2022,4,46000,Petrol,"Manual","3rd Owner","Jaipur",RJ-14,723520,307752
+49,"Hyundai","Creta",Car,2017,9,104837,Petrol,"Manual","2nd Owner","Mumbai",MH-01/02,1100000,207727
+50,"Hyundai","Creta",Car,2020,6,70337,Diesel,"Automatic (AT/CVT)","3rd Owner","Kolkata",WB-01/02,1298000,362789
+51,"Hyundai","Creta",Car,2023,3,35837,Petrol,"DCT","1st Owner","Lucknow",UP-32,1496000,884615
+52,"Hyundai","Venue",Car,2017,9,104837,Petrol,"Manual","2nd Owner","Mumbai",MH-01/02,794000,148608
+53,"Hyundai","Venue",Car,2020,6,70337,Diesel,"DCT","3rd Owner","Kolkata",WB-01/02,936920,261042
+54,"Hyundai","Venue",Car,2023,3,35837,Petrol,"Manual","1st Owner","Lucknow",UP-32,1079840,637874
+55,"Hyundai","i20",Car,2017,9,104837,Petrol,"Manual","2nd Owner","Mumbai",MH-01/02,704000,131220
+56,"Hyundai","i20",Car,2020,6,70337,Petrol,"Automatic (AT/CVT)","3rd Owner","Kolkata",WB-01/02,830720,231116
+57,"Hyundai","i20",Car,2023,3,35837,Petrol,"Manual","1st Owner","Lucknow",UP-32,957440,565303
+58,"Hyundai","Verna",Car,2017,9,104837,Petrol,"Manual","2nd Owner","Mumbai",MH-01/02,1100000,207727
+59,"Hyundai","Verna",Car,2020,6,70337,Petrol,"DCT","3rd Owner","Kolkata",WB-01/02,1298000,362789
+60,"Hyundai","Verna",Car,2023,3,35837,Petrol,"Manual","1st Owner","Lucknow",UP-32,1496000,884615
+61,"Hyundai","Exter",Car,2017,9,104837,Petrol,"Manual","2nd Owner","Mumbai",MH-01/02,613000,113639
+62,"Hyundai","Exter",Car,2020,6,70337,CNG,"AMT","3rd Owner","Kolkata",WB-01/02,723340,200858
+63,"Hyundai","Exter",Car,2023,3,35837,Petrol,"Manual","1st Owner","Lucknow",UP-32,833680,491926
+64,"Hyundai","Alcazar",Car,2017,9,104837,Petrol,"Manual","2nd Owner","Mumbai",MH-01/02,1677000,319204
+65,"Hyundai","Alcazar",Car,2020,6,70337,Diesel,"Automatic (AT/CVT)","3rd Owner","Kolkata",WB-01/02,1978860,554645
+66,"Hyundai","Alcazar",Car,2023,3,35837,Petrol,"Manual","1st Owner","Lucknow",UP-32,2280720,1349876
+67,"Hyundai","Tucson",Car,2017,9,104837,Petrol,"Automatic (AT/CVT)","2nd Owner","Mumbai",MH-01/02,2902000,555874
+68,"Hyundai","Tucson",Car,2020,6,70337,Diesel,"Automatic (AT/CVT)","3rd Owner","Kolkata",WB-01/02,3424360,961965
+69,"Hyundai","Tucson",Car,2023,3,35837,Petrol,"Automatic (AT/CVT)","1st Owner","Lucknow",UP-32,3946720,2337647
+70,"Hyundai","Ioniq 5",Car,2017,9,104837,Electric,"Automatic (AT/CVT)","2nd Owner","Mumbai",MH-01/02,4605000,884893
+71,"Hyundai","Ioniq 5",Car,2020,6,70337,Electric,"Automatic (AT/CVT)","3rd Owner","Kolkata",WB-01/02,5433900,1528224
+72,"Hyundai","Ioniq 5",Car,2023,3,35837,Electric,"Automatic (AT/CVT)","1st Owner","Lucknow",UP-32,6262800,3710851
+73,"Hyundai","Grand i10 Nios",Car,2017,9,104837,Petrol,"Manual","2nd Owner","Mumbai",MH-01/02,592000,109582
+74,"Hyundai","Grand i10 Nios",Car,2020,6,70337,CNG,"AMT","3rd Owner","Kolkata",WB-01/02,698560,193876
+75,"Hyundai","Grand i10 Nios",Car,2023,3,35837,Petrol,"Manual","1st Owner","Lucknow",UP-32,805120,474992
+76,"Hyundai","Aura",Car,2017,9,104837,Petrol,"Manual","2nd Owner","Mumbai",MH-01/02,649000,120594
+77,"Hyundai","Aura",Car,2020,6,70337,CNG,"AMT","3rd Owner","Kolkata",WB-01/02,765820,212829
+78,"Hyundai","Aura",Car,2023,3,35837,Petrol,"Manual","1st Owner","Lucknow",UP-32,882640,520954
+79,"Tata Motors","Nexon",Car,2018,8,94674,Petrol,"Manual","3rd Owner","Bengaluru",KA-01/03/05,800000,144000
+80,"Tata Motors","Nexon",Car,2021,5,60174,Diesel,"AMT","1st Owner","Pune",MH-12/14,944000,422492
+81,"Tata Motors","Nexon",Car,2024,2,25674,CNG,"DCT","2nd Owner","Chandigarh / Tricity",CH-01,1088000,687789
+82,"Tata Motors","Nexon EV",Car,2018,8,94674,Electric,"Automatic (AT/CVT)","3rd Owner","Bengaluru",KA-01/03/05,1449000,260820
+83,"Tata Motors","Nexon EV",Car,2021,5,60174,Electric,"Automatic (AT/CVT)","1st Owner","Pune",MH-12/14,1709820,768949
+84,"Tata Motors","Nexon EV",Car,2024,2,25674,Electric,"Automatic (AT/CVT)","2nd Owner","Chandigarh / Tricity",CH-01,1970640,1248089
+85,"Tata Motors","Punch",Car,2018,8,94674,Petrol,"Manual","3rd Owner","Bengaluru",KA-01/03/05,613000,110340
+86,"Tata Motors","Punch",Car,2021,5,60174,CNG,"AMT","1st Owner","Pune",MH-12/14,723340,322665
+87,"Tata Motors","Punch",Car,2024,2,25674,Petrol,"Manual","2nd Owner","Chandigarh / Tricity",CH-01,833680,526347
+88,"Tata Motors","Punch EV",Car,2018,8,94674,Electric,"Automatic (AT/CVT)","3rd Owner","Bengaluru",KA-01/03/05,1099000,197820
+89,"Tata Motors","Punch EV",Car,2021,5,60174,Electric,"Automatic (AT/CVT)","1st Owner","Pune",MH-12/14,1296820,582108
+90,"Tata Motors","Punch EV",Car,2024,2,25674,Electric,"Automatic (AT/CVT)","2nd Owner","Chandigarh / Tricity",CH-01,1494640,945924
+91,"Tata Motors","Curvv",Car,2018,8,94674,Petrol,"Manual","3rd Owner","Bengaluru",KA-01/03/05,1000000,180000
+92,"Tata Motors","Curvv",Car,2021,5,60174,Diesel,"DCT","1st Owner","Pune",MH-12/14,1180000,529258
+93,"Tata Motors","Curvv",Car,2024,2,25674,Petrol,"Manual","2nd Owner","Chandigarh / Tricity",CH-01,1360000,860455
+94,"Tata Motors","Curvv EV",Car,2018,8,94674,Electric,"Automatic (AT/CVT)","3rd Owner","Bengaluru",KA-01/03/05,1749000,314820
+95,"Tata Motors","Curvv EV",Car,2021,5,60174,Electric,"Automatic (AT/CVT)","1st Owner","Pune",MH-12/14,2063820,929098
+96,"Tata Motors","Curvv EV",Car,2024,2,25674,Electric,"Automatic (AT/CVT)","2nd Owner","Chandigarh / Tricity",CH-01,2378640,1507088
+97,"Tata Motors","Harrier",Car,2018,8,94674,Diesel,"Manual","3rd Owner","Bengaluru",KA-01/03/05,1549000,278820
+98,"Tata Motors","Harrier",Car,2021,5,60174,Diesel,"Automatic (AT/CVT)","1st Owner","Pune",MH-12/14,1827820,822332
+99,"Tata Motors","Harrier",Car,2024,2,25674,Diesel,"Manual","2nd Owner","Chandigarh / Tricity",CH-01,2106640,1334422
+100,"Tata Motors","Safari",Car,2018,8,94674,Diesel,"Manual","3rd Owner","Bengaluru",KA-01/03/05,1619000,291420
+101,"Tata Motors","Safari",Car,2021,5,60174,Diesel,"Automatic (AT/CVT)","1st Owner","Pune",MH-12/14,1910420,859700
+102,"Tata Motors","Safari",Car,2024,2,25674,Diesel,"Manual","2nd Owner","Chandigarh / Tricity",CH-01,2201840,1394855
+103,"Tata Motors","Tiago",Car,2018,8,94674,Petrol,"Manual","3rd Owner","Bengaluru",KA-01/03/05,565000,101700
+104,"Tata Motors","Tiago",Car,2021,5,60174,CNG,"AMT","1st Owner","Pune",MH-12/14,666700,297041
+105,"Tata Motors","Tiago",Car,2024,2,25674,Petrol,"Manual","2nd Owner","Chandigarh / Tricity",CH-01,768400,484907
+106,"Tata Motors","Tiago EV",Car,2018,8,94674,Electric,"Automatic (AT/CVT)","3rd Owner","Bengaluru",KA-01/03/05,799000,143820
+107,"Tata Motors","Tiago EV",Car,2021,5,60174,Electric,"Automatic (AT/CVT)","1st Owner","Pune",MH-12/14,942820,421958
+108,"Tata Motors","Tiago EV",Car,2024,2,25674,Electric,"Automatic (AT/CVT)","2nd Owner","Chandigarh / Tricity",CH-01,1086640,686926
+109,"Tata Motors","Tigor",Car,2018,8,94674,Petrol,"Manual","3rd Owner","Bengaluru",KA-01/03/05,630000,113400
+110,"Tata Motors","Tigor",Car,2021,5,60174,CNG,"AMT","1st Owner","Pune",MH-12/14,743400,331740
+111,"Tata Motors","Tigor",Car,2024,2,25674,Petrol,"Manual","2nd Owner","Chandigarh / Tricity",CH-01,856800,541024
+112,"Tata Motors","Altroz",Car,2018,8,94674,Petrol,"Manual","3rd Owner","Bengaluru",KA-01/03/05,665000,119700
+113,"Tata Motors","Altroz",Car,2021,5,60174,Diesel,"DCT","1st Owner","Pune",MH-12/14,784700,350424
+114,"Tata Motors","Altroz",Car,2024,2,25674,CNG,"Manual","2nd Owner","Chandigarh / Tricity",CH-01,904400,571240
+115,"Mahindra","Thar 4x4 (3-Door)",Car,2019,7,84511,Petrol,"Manual","1st Owner","Hyderabad",TS-07/08/09,1135000,306166
+116,"Mahindra","Thar 4x4 (3-Door)",Car,2022,4,50011,Diesel,"Automatic (AT/CVT)","2nd Owner","Ahmedabad",GJ-01/27,1339300,642381
+117,"Mahindra","Thar 4x4 (3-Door)",Car,2025,1,15511,Petrol,"Manual","3rd Owner","Surat",GJ-05,1543600,999636
+118,"Mahindra","Thar Roxx (5-Door)",Car,2019,7,84511,Petrol,"Manual","1st Owner","Hyderabad",TS-07/08/09,1299000,351365
+119,"Mahindra","Thar Roxx (5-Door)",Car,2022,4,50011,Diesel,"Automatic (AT/CVT)","2nd Owner","Ahmedabad",GJ-01/27,1532820,735886
+120,"Mahindra","Thar Roxx (5-Door)",Car,2025,1,15511,Petrol,"Manual","3rd Owner","Surat",GJ-05,1766640,1144541
+121,"Mahindra","Scorpio-N",Car,2019,7,84511,Petrol,"Manual","1st Owner","Hyderabad",TS-07/08/09,1385000,375066
+122,"Mahindra","Scorpio-N",Car,2022,4,50011,Diesel,"Automatic (AT/CVT)","2nd Owner","Ahmedabad",GJ-01/27,1634300,784920
+123,"Mahindra","Scorpio-N",Car,2025,1,15511,Petrol,"Manual","3rd Owner","Surat",GJ-05,1883600,1220528
+124,"Mahindra","Scorpio Classic",Car,2019,7,84511,Diesel,"Manual","1st Owner","Hyderabad",TS-07/08/09,1362000,368727
+125,"Mahindra","Scorpio Classic",Car,2022,4,50011,Diesel,"Manual","2nd Owner","Ahmedabad",GJ-01/27,1607160,771806
+126,"Mahindra","Scorpio Classic",Car,2025,1,15511,Diesel,"Manual","3rd Owner","Surat",GJ-05,1852320,1200206
+127,"Mahindra","XUV700",Car,2019,7,84511,Petrol,"Manual","1st Owner","Hyderabad",TS-07/08/09,1399000,378925
+128,"Mahindra","XUV700",Car,2022,4,50011,Diesel,"Automatic (AT/CVT)","2nd Owner","Ahmedabad",GJ-01/27,1650820,792902
+129,"Mahindra","XUV700",Car,2025,1,15511,Petrol,"Manual","3rd Owner","Surat",GJ-05,1902640,1232898
+130,"Mahindra","XUV 3XO",Car,2019,7,84511,Petrol,"Manual","1st Owner","Hyderabad",TS-07/08/09,749000,199785
+131,"Mahindra","XUV 3XO",Car,2022,4,50011,Diesel,"Automatic (AT/CVT)","2nd Owner","Ahmedabad",GJ-01/27,883820,422300
+132,"Mahindra","XUV 3XO",Car,2025,1,15511,Petrol,"Manual","3rd Owner","Surat",GJ-05,1018640,658578
+133,"Mahindra","Bolero",Car,2019,7,84511,Diesel,"Manual","1st Owner","Hyderabad",TS-07/08/09,979000,263173
+134,"Mahindra","Bolero",Car,2022,4,50011,Diesel,"Manual","2nd Owner","Ahmedabad",GJ-01/27,1155220,553436
+135,"Mahindra","Bolero",Car,2025,1,15511,Diesel,"Manual","3rd Owner","Surat",GJ-05,1331440,861799
+136,"Mahindra","Bolero Neo",Car,2019,7,84511,Diesel,"Manual","1st Owner","Hyderabad",TS-07/08/09,995000,267582
+137,"Mahindra","Bolero Neo",Car,2022,4,50011,Diesel,"Manual","2nd Owner","Ahmedabad",GJ-01/27,1174100,562559
+138,"Mahindra","Bolero Neo",Car,2025,1,15511,Diesel,"Manual","3rd Owner","Surat",GJ-05,1353200,875936
+139,"Mahindra","XUV400 EV",Car,2019,7,84511,Electric,"Automatic (AT/CVT)","1st Owner","Hyderabad",TS-07/08/09,1549000,420265
+140,"Mahindra","XUV400 EV",Car,2022,4,50011,Electric,"Automatic (AT/CVT)","2nd Owner","Ahmedabad",GJ-01/27,1827820,878426
+141,"Mahindra","XUV400 EV",Car,2025,1,15511,Electric,"Automatic (AT/CVT)","3rd Owner","Surat",GJ-05,2106640,1365433
+142,"Toyota","Fortuner",Car,2020,6,74348,Petrol,"Manual","2nd Owner","Chennai",TN-01/02/07,3343000,1112715
+143,"Toyota","Fortuner",Car,2023,3,39848,Diesel,"Automatic (AT/CVT)","3rd Owner","Jaipur",RJ-14,3944740,1956260
+144,"Toyota","Fortuner",Car,2016,10,120348,Petrol,"Manual","1st Owner","Kochi (Cochin)",KL-07,4546480,954530
+145,"Toyota","Fortuner Legender",Car,2020,6,74348,Diesel,"Automatic (AT/CVT)","2nd Owner","Chennai",TN-01/02/07,4366000,1455297
+146,"Toyota","Fortuner Legender",Car,2023,3,39848,Diesel,"Automatic (AT/CVT)","3rd Owner","Jaipur",RJ-14,5151880,2556363
+147,"Toyota","Fortuner Legender",Car,2016,10,120348,Diesel,"Automatic (AT/CVT)","1st Owner","Kochi (Cochin)",KL-07,5937760,1249482
+148,"Toyota","Innova Crysta",Car,2020,6,74348,Diesel,"Manual","2nd Owner","Chennai",TN-01/02/07,1999000,662636
+149,"Toyota","Innova Crysta",Car,2023,3,39848,Diesel,"Manual","3rd Owner","Jaipur",RJ-14,2358820,1167854
+150,"Toyota","Innova Crysta",Car,2016,10,120348,Diesel,"Manual","1st Owner","Kochi (Cochin)",KL-07,2718640,567028
+151,"Toyota","Innova Hycross",Car,2020,6,74348,Petrol,"Automatic (AT/CVT)","2nd Owner","Chennai",TN-01/02/07,1977000,655268
+152,"Toyota","Innova Hycross",Car,2023,3,39848,Hybrid,"Automatic (AT/CVT)","3rd Owner","Jaipur",RJ-14,2332860,1154948
+153,"Toyota","Innova Hycross",Car,2016,10,120348,Petrol,"Automatic (AT/CVT)","1st Owner","Kochi (Cochin)",KL-07,2688720,560685
+154,"Toyota","Urban Cruiser Hyryder",Car,2020,6,74348,Petrol,"Manual","2nd Owner","Chennai",TN-01/02/07,1114000,366267
+155,"Toyota","Urban Cruiser Hyryder",Car,2023,3,39848,Hybrid,"Automatic (AT/CVT)","3rd Owner","Jaipur",RJ-14,1314520,648702
+156,"Toyota","Urban Cruiser Hyryder",Car,2016,10,120348,CNG,"Manual","1st Owner","Kochi (Cochin)",KL-07,1515040,311865
+157,"Toyota","Urban Cruiser Taisor",Car,2020,6,74348,Petrol,"Manual","2nd Owner","Chennai",TN-01/02/07,774000,252408
+158,"Toyota","Urban Cruiser Taisor",Car,2023,3,39848,CNG,"Automatic (AT/CVT)","3rd Owner","Jaipur",RJ-14,913320,449254
+159,"Toyota","Urban Cruiser Taisor",Car,2016,10,120348,Petrol,"Manual","1st Owner","Kochi (Cochin)",KL-07,1052640,213836
+160,"Toyota","Glanza",Car,2020,6,74348,Petrol,"Manual","2nd Owner","Chennai",TN-01/02/07,686000,222938
+161,"Toyota","Glanza",Car,2023,3,39848,CNG,"AMT","3rd Owner","Jaipur",RJ-14,809480,397633
+162,"Toyota","Glanza",Car,2016,10,120348,Petrol,"Manual","1st Owner","Kochi (Cochin)",KL-07,932960,188464
+163,"Toyota","Hilux 4x4",Car,2020,6,74348,Diesel,"Manual","2nd Owner","Chennai",TN-01/02/07,3040000,1011246
+164,"Toyota","Hilux 4x4",Car,2023,3,39848,Diesel,"Automatic (AT/CVT)","3rd Owner","Jaipur",RJ-14,3587200,1778516
+165,"Toyota","Hilux 4x4",Car,2016,10,120348,Diesel,"Manual","1st Owner","Kochi (Cochin)",KL-07,4134400,867169
+166,"Toyota","Camry Hybrid",Car,2020,6,74348,Hybrid,"Automatic (AT/CVT)","2nd Owner","Chennai",TN-01/02/07,4617000,1539352
+167,"Toyota","Camry Hybrid",Car,2023,3,39848,Hybrid,"Automatic (AT/CVT)","3rd Owner","Jaipur",RJ-14,5448060,2703603
+168,"Toyota","Camry Hybrid",Car,2016,10,120348,Hybrid,"Automatic (AT/CVT)","1st Owner","Kochi (Cochin)",KL-07,6279120,1321850
+169,"Toyota","Vellfire Luxury",Car,2020,6,74348,Hybrid,"Automatic (AT/CVT)","2nd Owner","Chennai",TN-01/02/07,12230000,4088793
+170,"Toyota","Vellfire Luxury",Car,2023,3,39848,Hybrid,"Automatic (AT/CVT)","3rd Owner","Jaipur",RJ-14,14431400,7169477
+171,"Toyota","Vellfire Luxury",Car,2016,10,120348,Hybrid,"Automatic (AT/CVT)","1st Owner","Kochi (Cochin)",KL-07,16632800,3516830
+172,"Toyota","Land Cruiser LC300",Car,2020,6,74348,Diesel,"Automatic (AT/CVT)","2nd Owner","Chennai",TN-01/02/07,21000000,7025691
+173,"Toyota","Land Cruiser LC300",Car,2023,3,39848,Diesel,"Automatic (AT/CVT)","3rd Owner","Jaipur",RJ-14,24780000,12314061
+174,"Toyota","Land Cruiser LC300",Car,2016,10,120348,Diesel,"Automatic (AT/CVT)","1st Owner","Kochi (Cochin)",KL-07,28560000,6045396
+175,"Kia","Seltos",Car,2021,5,64185,Petrol,"Manual","3rd Owner","Kolkata",WB-01/02,1090000,375453
+176,"Kia","Seltos",Car,2024,2,29685,Diesel,"Automatic (AT/CVT)","1st Owner","Lucknow",UP-32,1286200,863327
+177,"Kia","Seltos",Car,2017,9,110185,Petrol,"DCT","2nd Owner","Indore",MP-09,1482400,266832
+178,"Kia","Sonet",Car,2021,5,64185,Petrol,"Manual","3rd Owner","Kolkata",WB-01/02,799000,273539
+179,"Kia","Sonet",Car,2024,2,29685,Diesel,"Automatic (AT/CVT)","1st Owner","Lucknow",UP-32,942820,631133
+180,"Kia","Sonet",Car,2017,9,110185,Petrol,"DCT","2nd Owner","Indore",MP-09,1086640,195595
+181,"Kia","Carens",Car,2021,5,64185,Petrol,"Manual","3rd Owner","Kolkata",WB-01/02,1052000,362144
+182,"Kia","Carens",Car,2024,2,29685,Diesel,"Automatic (AT/CVT)","1st Owner","Lucknow",UP-32,1241360,833006
+183,"Kia","Carens",Car,2017,9,110185,Petrol,"DCT","2nd Owner","Indore",MP-09,1430720,257530
+184,"Kia","EV6",Car,2021,5,64185,Electric,"Automatic (AT/CVT)","3rd Owner","Kolkata",WB-01/02,6097000,2128997
+185,"Kia","EV6",Car,2024,2,29685,Electric,"Automatic (AT/CVT)","1st Owner","Lucknow",UP-32,7194460,4858492
+186,"Kia","EV6",Car,2017,9,110185,Electric,"Automatic (AT/CVT)","2nd Owner","Indore",MP-09,8291920,1501797
+187,"Kia","EV9",Car,2021,5,64185,Electric,"Automatic (AT/CVT)","3rd Owner","Kolkata",WB-01/02,12900000,4511533
+188,"Kia","EV9",Car,2024,2,29685,Electric,"Automatic (AT/CVT)","1st Owner","Lucknow",UP-32,15222000,10286715
+189,"Kia","EV9",Car,2017,9,110185,Electric,"Automatic (AT/CVT)","2nd Owner","Indore",MP-09,17544000,3187156
+190,"Kia","Carnival Limousine",Car,2021,5,64185,Diesel,"Automatic (AT/CVT)","3rd Owner","Kolkata",WB-01/02,6390000,2231611
+191,"Kia","Carnival Limousine",Car,2024,2,29685,Diesel,"Automatic (AT/CVT)","1st Owner","Lucknow",UP-32,7540200,5092282
+192,"Kia","Carnival Limousine",Car,2017,9,110185,Diesel,"Automatic (AT/CVT)","2nd Owner","Indore",MP-09,8690400,1574384
+193,"Honda Cars India","City 5th Gen",Car,2022,4,46022,Petrol,"Manual","1st Owner","Pune",MH-12/14,1182000,637438
+194,"Honda Cars India","City 5th Gen",Car,2025,1,11522,Petrol,"Automatic (AT/CVT)","2nd Owner","Chandigarh / Tricity",CH-01,1394760,994056
+195,"Honda Cars India","City 5th Gen",Car,2018,8,92022,Petrol,"Manual","3rd Owner","Bhopal",MP-04,1607520,289354
+196,"Honda Cars India","City e:HEV Hybrid",Car,2022,4,46022,Hybrid,"Automatic (AT/CVT)","1st Owner","Pune",MH-12/14,1900000,1025733
+197,"Honda Cars India","City e:HEV Hybrid",Car,2025,1,11522,Hybrid,"Automatic (AT/CVT)","2nd Owner","Chandigarh / Tricity",CH-01,2242000,1598138
+198,"Honda Cars India","City e:HEV Hybrid",Car,2018,8,92022,Hybrid,"Automatic (AT/CVT)","3rd Owner","Bhopal",MP-04,2584000,465120
+199,"Honda Cars India","Elevate",Car,2022,4,46022,Petrol,"Manual","1st Owner","Pune",MH-12/14,1169000,630408
+200,"Honda Cars India","Elevate",Car,2025,1,11522,Petrol,"Automatic (AT/CVT)","2nd Owner","Chandigarh / Tricity",CH-01,1379420,983118
+201,"Honda Cars India","Elevate",Car,2018,8,92022,Petrol,"Manual","3rd Owner","Bhopal",MP-04,1589840,286171
+202,"Honda Cars India","Amaze",Car,2022,4,46022,Petrol,"Manual","1st Owner","Pune",MH-12/14,716000,385425
+203,"Honda Cars India","Amaze",Car,2025,1,11522,Petrol,"Automatic (AT/CVT)","2nd Owner","Chandigarh / Tricity",CH-01,844880,601991
+204,"Honda Cars India","Amaze",Car,2018,8,92022,Petrol,"Manual","3rd Owner","Bhopal",MP-04,973760,175277
+205,"Honda Cars India","Civic (Pre-Owned)",Car,2022,4,46022,Petrol,"Automatic (AT/CVT)","1st Owner","Pune",MH-12/14,1794000,968408
+206,"Honda Cars India","Civic (Pre-Owned)",Car,2025,1,11522,Diesel,"Automatic (AT/CVT)","2nd Owner","Chandigarh / Tricity",CH-01,2116920,1508956
+207,"Honda Cars India","Civic (Pre-Owned)",Car,2018,8,92022,Petrol,"Automatic (AT/CVT)","3rd Owner","Bhopal",MP-04,2439840,439171
+208,"Honda Cars India","CR-V (Pre-Owned)",Car,2022,4,46022,Petrol,"Automatic (AT/CVT)","1st Owner","Pune",MH-12/14,2827000,1527054
+209,"Honda Cars India","CR-V (Pre-Owned)",Car,2025,1,11522,Diesel,"Automatic (AT/CVT)","2nd Owner","Chandigarh / Tricity",CH-01,3335860,2378060
+210,"Honda Cars India","CR-V (Pre-Owned)",Car,2018,8,92022,Petrol,"Automatic (AT/CVT)","3rd Owner","Bhopal",MP-04,3844720,692050
+211,"Volkswagen","Virtus & GT Line",Car,2023,3,35859,Petrol,"Manual","2nd Owner","Ahmedabad",GJ-01/27,1156000,647606
+212,"Volkswagen","Virtus & GT Line",Car,2016,10,116359,Petrol,"Automatic (AT/CVT)","3rd Owner","Surat",GJ-05,1364080,245534
+213,"Volkswagen","Virtus & GT Line",Car,2019,7,81859,Petrol,"DCT","1st Owner","Nagpur",MH-31,1572160,424867
+214,"Volkswagen","Taigun & GT Plus",Car,2023,3,35859,Petrol,"Manual","2nd Owner","Ahmedabad",GJ-01/27,1170000,655476
+215,"Volkswagen","Taigun & GT Plus",Car,2016,10,116359,Petrol,"Automatic (AT/CVT)","3rd Owner","Surat",GJ-05,1380600,248508
+216,"Volkswagen","Taigun & GT Plus",Car,2019,7,81859,Petrol,"DCT","1st Owner","Nagpur",MH-31,1591200,430064
+217,"Volkswagen","Tiguan",Car,2023,3,35859,Petrol,"DCT","2nd Owner","Ahmedabad",GJ-01/27,3517000,1974880
+218,"Volkswagen","Tiguan",Car,2016,10,116359,Petrol,"DCT","3rd Owner","Surat",GJ-05,4150060,747011
+219,"Volkswagen","Tiguan",Car,2019,7,81859,Petrol,"DCT","1st Owner","Nagpur",MH-31,4783120,1301299
+220,"Volkswagen","Polo (Pre-Owned GT)",Car,2023,3,35859,Petrol,"Manual","2nd Owner","Ahmedabad",GJ-01/27,849000,475021
+221,"Volkswagen","Polo (Pre-Owned GT)",Car,2016,10,116359,Diesel,"Automatic (AT/CVT)","3rd Owner","Surat",GJ-05,1001820,180328
+222,"Volkswagen","Polo (Pre-Owned GT)",Car,2019,7,81859,Petrol,"Manual","1st Owner","Nagpur",MH-31,1154640,310905
+223,"Volkswagen","Vento (Pre-Owned)",Car,2023,3,35859,Petrol,"Manual","2nd Owner","Ahmedabad",GJ-01/27,999000,559346
+224,"Volkswagen","Vento (Pre-Owned)",Car,2016,10,116359,Diesel,"DCT","3rd Owner","Surat",GJ-05,1178820,212188
+225,"Volkswagen","Vento (Pre-Owned)",Car,2019,7,81859,Petrol,"Manual","1st Owner","Nagpur",MH-31,1358640,366587
+226,"Škoda Auto","Slavia & Monte Carlo",Car,2024,2,25696,Petrol,"Manual","3rd Owner","Jaipur",RJ-14,1163000,656808
+227,"Škoda Auto","Slavia & Monte Carlo",Car,2017,9,106196,Petrol,"Automatic (AT/CVT)","1st Owner","Kochi (Cochin)",KL-07,1372340,284452
+228,"Škoda Auto","Slavia & Monte Carlo",Car,2020,6,71696,Petrol,"DCT","2nd Owner","Patna",BR-01,1581680,494750
+229,"Škoda Auto","Kushaq & Monte Carlo",Car,2024,2,25696,Petrol,"Manual","3rd Owner","Jaipur",RJ-14,1189000,671549
+230,"Škoda Auto","Kushaq & Monte Carlo",Car,2017,9,106196,Petrol,"Automatic (AT/CVT)","1st Owner","Kochi (Cochin)",KL-07,1403020,290957
+231,"Škoda Auto","Kushaq & Monte Carlo",Car,2020,6,71696,Petrol,"DCT","2nd Owner","Patna",BR-01,1617040,505908
+232,"Škoda Auto","Kylaq (Sub-4m SUV)",Car,2024,2,25696,Petrol,"Manual","3rd Owner","Jaipur",RJ-14,789000,444760
+233,"Škoda Auto","Kylaq (Sub-4m SUV)",Car,2017,9,106196,Petrol,"Automatic (AT/CVT)","1st Owner","Kochi (Cochin)",KL-07,931020,190893
+234,"Škoda Auto","Kylaq (Sub-4m SUV)",Car,2020,6,71696,Petrol,"Manual","2nd Owner","Patna",BR-01,1073040,334243
+235,"Škoda Auto","Kodiaq 4x4",Car,2024,2,25696,Petrol,"DCT","3rd Owner","Jaipur",RJ-14,3999000,2264744
+236,"Škoda Auto","Kodiaq 4x4",Car,2017,9,106196,Petrol,"DCT","1st Owner","Kochi (Cochin)",KL-07,4718820,993906
+237,"Škoda Auto","Kodiaq 4x4",Car,2020,6,71696,Petrol,"DCT","2nd Owner","Patna",BR-01,5438640,1711852
+238,"Škoda Auto","Superb (Import)",Car,2024,2,25696,Petrol,"DCT","3rd Owner","Jaipur",RJ-14,5400000,3059073
+239,"Škoda Auto","Superb (Import)",Car,2017,9,106196,Petrol,"DCT","1st Owner","Kochi (Cochin)",KL-07,6372000,1344380
+240,"Škoda Auto","Superb (Import)",Car,2020,6,71696,Petrol,"DCT","2nd Owner","Patna",BR-01,7344000,2313107
+241,"Škoda Auto","Octavia (Pre-Owned vRS)",Car,2024,2,25696,Petrol,"DCT","3rd Owner","Jaipur",RJ-14,2735000,1548090
+242,"Škoda Auto","Octavia (Pre-Owned vRS)",Car,2017,9,106196,Petrol,"DCT","1st Owner","Kochi (Cochin)",KL-07,3227300,677704
+243,"Škoda Auto","Octavia (Pre-Owned vRS)",Car,2020,6,71696,Petrol,"DCT","2nd Owner","Patna",BR-01,3719600,1169392
+244,"MG Motor","Hector & Hector Plus",Car,2025,1,15533,Petrol,"Manual","1st Owner","Lucknow",UP-32,1399000,1058765
+245,"MG Motor","Hector & Hector Plus",Car,2018,8,96033,Diesel,"Automatic (AT/CVT)","2nd Owner","Indore",MP-09,1650820,297148
+246,"MG Motor","Hector & Hector Plus",Car,2021,5,61533,Petrol,"Manual","3rd Owner","Coimbatore",TN-37/38,1902640,702809
+247,"MG Motor","Astor",Car,2025,1,15533,Petrol,"Manual","1st Owner","Lucknow",UP-32,998000,754205
+248,"MG Motor","Astor",Car,2018,8,96033,Petrol,"Automatic (AT/CVT)","2nd Owner","Indore",MP-09,1177640,211975
+249,"MG Motor","Astor",Car,2021,5,61533,Petrol,"Manual","3rd Owner","Coimbatore",TN-37/38,1357280,500000
+250,"MG Motor","ZS EV",Car,2025,1,15533,Electric,"Automatic (AT/CVT)","1st Owner","Lucknow",UP-32,1898000,1437755
+251,"MG Motor","ZS EV",Car,2018,8,96033,Electric,"Automatic (AT/CVT)","2nd Owner","Indore",MP-09,2239640,403135
+252,"MG Motor","ZS EV",Car,2021,5,61533,Electric,"Automatic (AT/CVT)","3rd Owner","Coimbatore",TN-37/38,2581280,955183
+253,"MG Motor","Windsor EV",Car,2025,1,15533,Electric,"Automatic (AT/CVT)","1st Owner","Lucknow",UP-32,999000,754965
+254,"MG Motor","Windsor EV",Car,2018,8,96033,Electric,"Automatic (AT/CVT)","2nd Owner","Indore",MP-09,1178820,212188
+255,"MG Motor","Windsor EV",Car,2021,5,61533,Electric,"Automatic (AT/CVT)","3rd Owner","Coimbatore",TN-37/38,1358640,500506
+256,"MG Motor","Comet EV",Car,2025,1,15533,Electric,"Automatic (AT/CVT)","1st Owner","Lucknow",UP-32,699000,527115
+257,"MG Motor","Comet EV",Car,2018,8,96033,Electric,"Automatic (AT/CVT)","2nd Owner","Indore",MP-09,824820,148468
+258,"MG Motor","Comet EV",Car,2021,5,61533,Electric,"Automatic (AT/CVT)","3rd Owner","Coimbatore",TN-37/38,950640,348778
+259,"MG Motor","Gloster 4x4",Car,2025,1,15533,Diesel,"Automatic (AT/CVT)","1st Owner","Lucknow",UP-32,3880000,2943084
+260,"MG Motor","Gloster 4x4",Car,2018,8,96033,Diesel,"Automatic (AT/CVT)","2nd Owner","Indore",MP-09,4578400,827782
+261,"MG Motor","Gloster 4x4",Car,2021,5,61533,Diesel,"Automatic (AT/CVT)","3rd Owner","Coimbatore",TN-37/38,5276800,1957597
+262,"Renault India","Kiger",Car,2016,10,120370,Petrol,"Manual","2nd Owner","Chandigarh / Tricity",CH-01,600000,108000
+263,"Renault India","Kiger",Car,2019,7,85870,Petrol,"AMT","3rd Owner","Bhopal",MP-04,708000,147972
+264,"Renault India","Kiger",Car,2022,4,51370,Petrol,"Automatic (AT/CVT)","1st Owner","Visakhapatnam (Vizag)",AP-31/32,816000,426417
+265,"Renault India","Triber",Car,2016,10,120370,Petrol,"Manual","2nd Owner","Chandigarh / Tricity",CH-01,600000,108000
+266,"Renault India","Triber",Car,2019,7,85870,Petrol,"AMT","3rd Owner","Bhopal",MP-04,708000,147972
+267,"Renault India","Triber",Car,2022,4,51370,Petrol,"Manual","1st Owner","Visakhapatnam (Vizag)",AP-31/32,816000,426417
+268,"Renault India","Kwid",Car,2016,10,120370,Petrol,"Manual","2nd Owner","Chandigarh / Tricity",CH-01,470000,84600
+269,"Renault India","Kwid",Car,2019,7,85870,Petrol,"AMT","3rd Owner","Bhopal",MP-04,554600,114569
+270,"Renault India","Kwid",Car,2022,4,51370,Petrol,"Manual","1st Owner","Visakhapatnam (Vizag)",AP-31/32,639200,332642
+271,"Renault India","Duster (Pre-Owned AWD)",Car,2016,10,120370,Diesel,"Manual","2nd Owner","Chandigarh / Tricity",CH-01,999000,179820
+272,"Renault India","Duster (Pre-Owned AWD)",Car,2019,7,85870,Petrol,"Automatic (AT/CVT)","3rd Owner","Bhopal",MP-04,1178820,250493
+273,"Renault India","Duster (Pre-Owned AWD)",Car,2022,4,51370,Diesel,"Manual","1st Owner","Visakhapatnam (Vizag)",AP-31/32,1358640,714233
+274,"Nissan India","Magnite",Car,2017,9,110207,Petrol,"Manual","3rd Owner","Surat",GJ-05,599000,107820
+275,"Nissan India","Magnite",Car,2020,6,75707,Petrol,"AMT","1st Owner","Nagpur",MH-31,706820,246310
+276,"Nissan India","Magnite",Car,2023,3,41207,Petrol,"Automatic (AT/CVT)","2nd Owner","Vadodara",GJ-06,814640,447011
+277,"Nissan India","X-Trail",Car,2017,9,110207,Petrol,"Automatic (AT/CVT)","3rd Owner","Surat",GJ-05,4992000,898560
+278,"Nissan India","X-Trail",Car,2020,6,75707,Petrol,"Automatic (AT/CVT)","1st Owner","Nagpur",MH-31,5890560,2115048
+279,"Nissan India","X-Trail",Car,2023,3,41207,Petrol,"Automatic (AT/CVT)","2nd Owner","Vadodara",GJ-06,6789120,3772406
+280,"Nissan India","Kicks (Pre-Owned)",Car,2017,9,110207,Petrol,"Manual","3rd Owner","Surat",GJ-05,950000,171000
+281,"Nissan India","Kicks (Pre-Owned)",Car,2020,6,75707,Diesel,"Automatic (AT/CVT)","1st Owner","Nagpur",MH-31,1121000,395622
+282,"Nissan India","Kicks (Pre-Owned)",Car,2023,3,41207,Petrol,"Manual","2nd Owner","Vadodara",GJ-06,1292000,712709
+283,"Nissan India","Sunny (Pre-Owned)",Car,2017,9,110207,Diesel,"Manual","3rd Owner","Surat",GJ-05,850000,153000
+284,"Nissan India","Sunny (Pre-Owned)",Car,2020,6,75707,Petrol,"Automatic (AT/CVT)","1st Owner","Nagpur",MH-31,1003000,353083
+285,"Nissan India","Sunny (Pre-Owned)",Car,2023,3,41207,Diesel,"Manual","2nd Owner","Vadodara",GJ-06,1156000,637012
+286,"Jeep India","Compass",Car,2018,8,92044,Diesel,"Manual","1st Owner","Kochi (Cochin)",KL-07,1899000,398944
+287,"Jeep India","Compass",Car,2021,5,57544,Diesel,"Automatic (AT/CVT)","2nd Owner","Patna",BR-01,2240820,876891
+288,"Jeep India","Compass",Car,2024,2,23044,Diesel,"Manual","3rd Owner","Ludhiana",PB-10,2582640,1493125
+289,"Jeep India","Meridian (7-Seater)",Car,2018,8,92044,Diesel,"Manual","1st Owner","Kochi (Cochin)",KL-07,2499000,526144
+290,"Jeep India","Meridian (7-Seater)",Car,2021,5,57544,Diesel,"Automatic (AT/CVT)","2nd Owner","Patna",BR-01,2948820,1154566
+291,"Jeep India","Meridian (7-Seater)",Car,2024,2,23044,Diesel,"Manual","3rd Owner","Ludhiana",PB-10,3398640,1965121
+292,"Jeep India","Wrangler Rubicon",Car,2018,8,92044,Petrol,"Automatic (AT/CVT)","1st Owner","Kochi (Cochin)",KL-07,6765000,1430536
+293,"Jeep India","Wrangler Rubicon",Car,2021,5,57544,Petrol,"Automatic (AT/CVT)","2nd Owner","Patna",BR-01,7982700,3128833
+294,"Jeep India","Wrangler Rubicon",Car,2024,2,23044,Petrol,"Automatic (AT/CVT)","3rd Owner","Ludhiana",PB-10,9200400,5321016
+295,"Jeep India","Grand Cherokee",Car,2018,8,92044,Petrol,"Automatic (AT/CVT)","1st Owner","Kochi (Cochin)",KL-07,8050000,1702956
+296,"Jeep India","Grand Cherokee",Car,2021,5,57544,Petrol,"Automatic (AT/CVT)","2nd Owner","Patna",BR-01,9499000,3723520
+297,"Jeep India","Grand Cherokee",Car,2024,2,23044,Petrol,"Automatic (AT/CVT)","3rd Owner","Ludhiana",PB-10,10948000,6331875
+298,"Citroën India","Basalt Coupe SUV",Car,2019,7,81881,Petrol,"Manual","2nd Owner","Indore",MP-09,799000,189069
+299,"Citroën India","Basalt Coupe SUV",Car,2022,4,47381,Petrol,"Automatic (AT/CVT)","3rd Owner","Coimbatore",TN-37/38,942820,416672
+300,"Citroën India","Basalt Coupe SUV",Car,2025,1,12881,Petrol,"Manual","1st Owner","Noida / Greater Noida",UP-16,1086640,823736
+301,"Citroën India","C3 Aircross",Car,2019,7,81881,Petrol,"Manual","2nd Owner","Indore",MP-09,849000,201138
+302,"Citroën India","C3 Aircross",Car,2022,4,47381,Petrol,"Automatic (AT/CVT)","3rd Owner","Coimbatore",TN-37/38,1001820,442900
+303,"Citroën India","C3 Aircross",Car,2025,1,12881,Petrol,"Manual","1st Owner","Noida / Greater Noida",UP-16,1154640,875382
+304,"Citroën India","C3 Hatchback",Car,2019,7,81881,Petrol,"Manual","2nd Owner","Indore",MP-09,616000,144900
+305,"Citroën India","C3 Hatchback",Car,2022,4,47381,Petrol,"Automatic (AT/CVT)","3rd Owner","Coimbatore",TN-37/38,726880,320676
+306,"Citroën India","C3 Hatchback",Car,2025,1,12881,Petrol,"Manual","1st Owner","Noida / Greater Noida",UP-16,837760,634712
+307,"Citroën India","ë-C3 Electric",Car,2019,7,81881,Electric,"Automatic (AT/CVT)","2nd Owner","Indore",MP-09,1161000,276443
+308,"Citroën India","ë-C3 Electric",Car,2022,4,47381,Electric,"Automatic (AT/CVT)","3rd Owner","Coimbatore",TN-37/38,1369980,606565
+309,"Citroën India","ë-C3 Electric",Car,2025,1,12881,Electric,"Automatic (AT/CVT)","1st Owner","Noida / Greater Noida",UP-16,1578960,1197653
+310,"Citroën India","C5 Aircross",Car,2019,7,81881,Diesel,"Automatic (AT/CVT)","2nd Owner","Indore",MP-09,3999000,961428
+311,"Citroën India","C5 Aircross",Car,2022,4,47381,Diesel,"Automatic (AT/CVT)","3rd Owner","Coimbatore",TN-37/38,4718820,2095285
+312,"Citroën India","C5 Aircross",Car,2025,1,12881,Diesel,"Automatic (AT/CVT)","1st Owner","Noida / Greater Noida",UP-16,5438640,4129080
+313,"Force Motors","Gurkha 3-Door 4x4",Car,2020,6,71718,Diesel,"Manual","3rd Owner","Bhopal",MP-04,1675000,477728
+314,"Force Motors","Gurkha 3-Door 4x4",Car,2023,3,37218,Diesel,"Manual","1st Owner","Visakhapatnam (Vizag)",AP-31/32,1976500,1216041
+315,"Force Motors","Gurkha 3-Door 4x4",Car,2016,10,117718,Diesel,"Manual","2nd Owner","Gurugram (Gurgaon)",HR-26/55,2278000,410040
+316,"Force Motors","Gurkha 5-Door 4x4",Car,2020,6,71718,Diesel,"Manual","3rd Owner","Bhopal",MP-04,1800000,513677
+317,"Force Motors","Gurkha 5-Door 4x4",Car,2023,3,37218,Diesel,"Manual","1st Owner","Visakhapatnam (Vizag)",AP-31/32,2124000,1307063
+318,"Force Motors","Gurkha 5-Door 4x4",Car,2016,10,117718,Diesel,"Manual","2nd Owner","Gurugram (Gurgaon)",HR-26/55,2448000,440640
+319,"Force Motors","Trax Cruiser",Car,2020,6,71718,Diesel,"Manual","3rd Owner","Bhopal",MP-04,1380000,392887
+320,"Force Motors","Trax Cruiser",Car,2023,3,37218,Diesel,"Manual","1st Owner","Visakhapatnam (Vizag)",AP-31/32,1628400,1001229
+321,"Force Motors","Trax Cruiser",Car,2016,10,117718,Diesel,"Manual","2nd Owner","Gurugram (Gurgaon)",HR-26/55,1876800,337824
+322,"Force Motors","Urbania Van",Car,2020,6,71718,Diesel,"Manual","3rd Owner","Bhopal",MP-04,2950000,844412
+323,"Force Motors","Urbania Van",Car,2023,3,37218,Diesel,"Manual","1st Owner","Visakhapatnam (Vizag)",AP-31/32,3481000,2144468
+324,"Force Motors","Urbania Van",Car,2016,10,117718,Diesel,"Manual","2nd Owner","Gurugram (Gurgaon)",HR-26/55,4012000,724851
+325,"Isuzu Motors India","D-Max V-Cross 4x4",Car,2021,5,61555,Diesel,"Manual","1st Owner","Nagpur",MH-31,2207000,983107
+326,"Isuzu Motors India","D-Max V-Cross 4x4",Car,2024,2,27055,Diesel,"Automatic (AT/CVT)","2nd Owner","Vadodara",GJ-06,2604260,1649231
+327,"Isuzu Motors India","D-Max V-Cross 4x4",Car,2017,9,107555,Diesel,"Manual","3rd Owner","Faridabad",HR-38,3001520,540274
+328,"Isuzu Motors India","MU-X 4x4 SUV",Car,2021,5,61555,Diesel,"Automatic (AT/CVT)","1st Owner","Nagpur",MH-31,3500000,1562436
+329,"Isuzu Motors India","MU-X 4x4 SUV",Car,2024,2,27055,Diesel,"Automatic (AT/CVT)","2nd Owner","Vadodara",GJ-06,4130000,2617771
+330,"Isuzu Motors India","MU-X 4x4 SUV",Car,2017,9,107555,Diesel,"Automatic (AT/CVT)","3rd Owner","Faridabad",HR-38,4760000,856800
+331,"Isuzu Motors India","Hi-Lander",Car,2021,5,61555,Diesel,"Manual","1st Owner","Nagpur",MH-31,1950000,867959
+332,"Isuzu Motors India","Hi-Lander",Car,2024,2,27055,Diesel,"Manual","2nd Owner","Vadodara",GJ-06,2301000,1456722
+333,"Isuzu Motors India","Hi-Lander",Car,2017,9,107555,Diesel,"Manual","3rd Owner","Faridabad",HR-38,2652000,477360
+334,"BYD India","Atto 3 Electric SUV",Car,2022,4,51392,Electric,"Automatic (AT/CVT)","2nd Owner","Patna",BR-01,2499000,1165946
+335,"BYD India","Atto 3 Electric SUV",Car,2025,1,16892,Electric,"Automatic (AT/CVT)","3rd Owner","Ludhiana",PB-10,2948820,1911598
+336,"BYD India","Atto 3 Electric SUV",Car,2018,8,97392,Electric,"Automatic (AT/CVT)","1st Owner","Ghaziabad",UP-14,3398640,658310
+337,"BYD India","Seal Electric Sedan",Car,2022,4,51392,Electric,"Automatic (AT/CVT)","2nd Owner","Patna",BR-01,4100000,1916546
+338,"BYD India","Seal Electric Sedan",Car,2025,1,16892,Electric,"Automatic (AT/CVT)","3rd Owner","Ludhiana",PB-10,4838000,3138966
+339,"BYD India","Seal Electric Sedan",Car,2018,8,97392,Electric,"Automatic (AT/CVT)","1st Owner","Ghaziabad",UP-14,5576000,1085072
+340,"BYD India","eMax 7 Electric MPV",Car,2022,4,51392,Electric,"Automatic (AT/CVT)","2nd Owner","Patna",BR-01,2690000,1255493
+341,"BYD India","eMax 7 Electric MPV",Car,2025,1,16892,Electric,"Automatic (AT/CVT)","3rd Owner","Ludhiana",PB-10,3174200,2058024
+342,"BYD India","eMax 7 Electric MPV",Car,2018,8,97392,Electric,"Automatic (AT/CVT)","1st Owner","Ghaziabad",UP-14,3658400,709223
+343,"BYD India","e6 MPV",Car,2022,4,51392,Electric,"Automatic (AT/CVT)","2nd Owner","Patna",BR-01,2915000,1360980
+344,"BYD India","e6 MPV",Car,2025,1,16892,Electric,"Automatic (AT/CVT)","3rd Owner","Ludhiana",PB-10,3439700,2230515
+345,"BYD India","e6 MPV",Car,2018,8,97392,Electric,"Automatic (AT/CVT)","1st Owner","Ghaziabad",UP-14,3964400,769199
+346,"BMW India","3 Series Gran Limousine",Car,2023,3,41229,Petrol,"Automatic (AT/CVT)","3rd Owner","Coimbatore",TN-37/38,6060000,3128340
+347,"BMW India","3 Series Gran Limousine",Car,2016,10,121729,Diesel,"Automatic (AT/CVT)","1st Owner","Noida / Greater Noida",UP-16,7150800,1391787
+348,"BMW India","3 Series Gran Limousine",Car,2019,7,87229,Petrol,"Automatic (AT/CVT)","2nd Owner","Bhubaneswar",OD-02,8241600,1961277
+349,"BMW India","M340i xDrive",Car,2023,3,41229,Petrol,"Automatic (AT/CVT)","3rd Owner","Coimbatore",TN-37/38,7290000,3764514
+350,"BMW India","M340i xDrive",Car,2016,10,121729,Petrol,"Automatic (AT/CVT)","1st Owner","Noida / Greater Noida",UP-16,8602200,1676261
+351,"BMW India","M340i xDrive",Car,2019,7,87229,Petrol,"Automatic (AT/CVT)","2nd Owner","Bhubaneswar",OD-02,9914400,2360949
+352,"BMW India","X1",Car,2023,3,41229,Petrol,"DCT","3rd Owner","Coimbatore",TN-37/38,4950000,2554232
+353,"BMW India","X1",Car,2016,10,121729,Diesel,"DCT","1st Owner","Noida / Greater Noida",UP-16,5841000,1135066
+354,"BMW India","X1",Car,2019,7,87229,Petrol,"DCT","2nd Owner","Bhubaneswar",OD-02,6732000,1600597
+355,"BMW India","X5 4x4",Car,2023,3,41229,Petrol,"Automatic (AT/CVT)","3rd Owner","Coimbatore",TN-37/38,9600000,4959279
+356,"BMW India","X5 4x4",Car,2016,10,121729,Diesel,"Automatic (AT/CVT)","1st Owner","Noida / Greater Noida",UP-16,11328000,2210518
+357,"BMW India","X5 4x4",Car,2019,7,87229,Petrol,"Automatic (AT/CVT)","2nd Owner","Bhubaneswar",OD-02,13056000,3111553
+358,"BMW India","X7 Flagship",Car,2023,3,41229,Petrol,"Automatic (AT/CVT)","3rd Owner","Coimbatore",TN-37/38,13000000,6717809
+359,"BMW India","X7 Flagship",Car,2016,10,121729,Diesel,"Automatic (AT/CVT)","1st Owner","Noida / Greater Noida",UP-16,15340000,2996870
+360,"BMW India","X7 Flagship",Car,2019,7,87229,Petrol,"Automatic (AT/CVT)","2nd Owner","Bhubaneswar",OD-02,17680000,4216337
+361,"BMW India","i4 Electric",Car,2023,3,41229,Electric,"Automatic (AT/CVT)","3rd Owner","Coimbatore",TN-37/38,7250000,3743825
+362,"BMW India","i4 Electric",Car,2016,10,121729,Electric,"Automatic (AT/CVT)","1st Owner","Noida / Greater Noida",UP-16,8555000,1667010
+363,"BMW India","i4 Electric",Car,2019,7,87229,Electric,"Automatic (AT/CVT)","2nd Owner","Bhubaneswar",OD-02,9860000,2347952
+364,"BMW India","iX Electric SUV",Car,2023,3,41229,Electric,"Automatic (AT/CVT)","3rd Owner","Coimbatore",TN-37/38,12100000,6252316
+365,"BMW India","iX Electric SUV",Car,2016,10,121729,Electric,"Automatic (AT/CVT)","1st Owner","Noida / Greater Noida",UP-16,14278000,2788718
+366,"BMW India","iX Electric SUV",Car,2019,7,87229,Electric,"Automatic (AT/CVT)","2nd Owner","Bhubaneswar",OD-02,16456000,3923894
+367,"BMW India","5 Series Long Wheelbase",Car,2023,3,41229,Petrol,"Automatic (AT/CVT)","3rd Owner","Coimbatore",TN-37/38,7290000,3764514
+368,"BMW India","5 Series Long Wheelbase",Car,2016,10,121729,Petrol,"Automatic (AT/CVT)","1st Owner","Noida / Greater Noida",UP-16,8602200,1676261
+369,"BMW India","5 Series Long Wheelbase",Car,2019,7,87229,Petrol,"Automatic (AT/CVT)","2nd Owner","Bhubaneswar",OD-02,9914400,2360949
+370,"BMW India","7 Series",Car,2023,3,41229,Petrol,"Automatic (AT/CVT)","3rd Owner","Coimbatore",TN-37/38,18150000,9381463
+371,"BMW India","7 Series",Car,2016,10,121729,Diesel,"Automatic (AT/CVT)","1st Owner","Noida / Greater Noida",UP-16,21417000,4187962
+372,"BMW India","7 Series",Car,2019,7,87229,Petrol,"Automatic (AT/CVT)","2nd Owner","Bhubaneswar",OD-02,24684000,5889761
+373,"BMW India","M3 Competition",Car,2023,3,41229,Petrol,"Automatic (AT/CVT)","3rd Owner","Coimbatore",TN-37/38,13000000,6717809
+374,"BMW India","M3 Competition",Car,2016,10,121729,Petrol,"Automatic (AT/CVT)","1st Owner","Noida / Greater Noida",UP-16,15340000,2996870
+375,"BMW India","M3 Competition",Car,2019,7,87229,Petrol,"Automatic (AT/CVT)","2nd Owner","Bhubaneswar",OD-02,17680000,4216337
+376,"Mercedes-Benz India","C-Class",Car,2024,2,23066,Petrol,"Automatic (AT/CVT)","1st Owner","Visakhapatnam (Vizag)",AP-31/32,6185000,4352079
+377,"Mercedes-Benz India","C-Class",Car,2017,9,103566,Diesel,"Automatic (AT/CVT)","2nd Owner","Gurugram (Gurgaon)",HR-26/55,7298300,1325923
+378,"Mercedes-Benz India","C-Class",Car,2020,6,69066,Petrol,"Automatic (AT/CVT)","3rd Owner","Dehradun",UK-07,8411600,2416993
+379,"Mercedes-Benz India","E-Class LWB (All New)",Car,2024,2,23066,Petrol,"Automatic (AT/CVT)","1st Owner","Visakhapatnam (Vizag)",AP-31/32,7850000,5523906
+380,"Mercedes-Benz India","E-Class LWB (All New)",Car,2017,9,103566,Diesel,"Automatic (AT/CVT)","2nd Owner","Gurugram (Gurgaon)",HR-26/55,9263000,1683813
+381,"Mercedes-Benz India","E-Class LWB (All New)",Car,2020,6,69066,Petrol,"Automatic (AT/CVT)","3rd Owner","Dehradun",UK-07,10676000,3068223
+382,"Mercedes-Benz India","GLC SUV",Car,2024,2,23066,Petrol,"Automatic (AT/CVT)","1st Owner","Visakhapatnam (Vizag)",AP-31/32,7590000,5340918
+383,"Mercedes-Benz India","GLC SUV",Car,2017,9,103566,Diesel,"Automatic (AT/CVT)","2nd Owner","Gurugram (Gurgaon)",HR-26/55,8956200,1627926
+384,"Mercedes-Benz India","GLC SUV",Car,2020,6,69066,Petrol,"Automatic (AT/CVT)","3rd Owner","Dehradun",UK-07,10322400,2966529
+385,"Mercedes-Benz India","GLE SUV",Car,2024,2,23066,Petrol,"Automatic (AT/CVT)","1st Owner","Visakhapatnam (Vizag)",AP-31/32,9785000,6885759
+386,"Mercedes-Benz India","GLE SUV",Car,2017,9,103566,Diesel,"Automatic (AT/CVT)","2nd Owner","Gurugram (Gurgaon)",HR-26/55,11546300,2099739
+387,"Mercedes-Benz India","GLE SUV",Car,2020,6,69066,Petrol,"Automatic (AT/CVT)","3rd Owner","Dehradun",UK-07,13307600,3825058
+388,"Mercedes-Benz India","GLS Maybach",Car,2024,2,23066,Petrol,"Automatic (AT/CVT)","1st Owner","Visakhapatnam (Vizag)",AP-31/32,33500000,23576376
+389,"Mercedes-Benz India","GLS Maybach",Car,2017,9,103566,Petrol,"Automatic (AT/CVT)","2nd Owner","Gurugram (Gurgaon)",HR-26/55,39530000,7197250
+390,"Mercedes-Benz India","GLS Maybach",Car,2020,6,69066,Petrol,"Automatic (AT/CVT)","3rd Owner","Dehradun",UK-07,45560000,13100687
+391,"Mercedes-Benz India","G-Class (G 63 AMG)",Car,2024,2,23066,Petrol,"Automatic (AT/CVT)","1st Owner","Visakhapatnam (Vizag)",AP-31/32,40000000,28151076
+392,"Mercedes-Benz India","G-Class (G 63 AMG)",Car,2017,9,103566,Petrol,"Automatic (AT/CVT)","2nd Owner","Gurugram (Gurgaon)",HR-26/55,47200000,8594417
+393,"Mercedes-Benz India","G-Class (G 63 AMG)",Car,2020,6,69066,Petrol,"Automatic (AT/CVT)","3rd Owner","Dehradun",UK-07,54400000,15643027
+394,"Mercedes-Benz India","EQE 500 4MATIC SUV",Car,2024,2,23066,Electric,"Automatic (AT/CVT)","1st Owner","Visakhapatnam (Vizag)",AP-31/32,13900000,9781896
+395,"Mercedes-Benz India","EQE 500 4MATIC SUV",Car,2017,9,103566,Electric,"Automatic (AT/CVT)","2nd Owner","Gurugram (Gurgaon)",HR-26/55,16402000,2984253
+396,"Mercedes-Benz India","EQE 500 4MATIC SUV",Car,2020,6,69066,Electric,"Automatic (AT/CVT)","3rd Owner","Dehradun",UK-07,18904000,5434554
+397,"Mercedes-Benz India","EQS 580 4MATIC",Car,2024,2,23066,Electric,"Automatic (AT/CVT)","1st Owner","Visakhapatnam (Vizag)",AP-31/32,16200000,11400636
+398,"Mercedes-Benz India","EQS 580 4MATIC",Car,2017,9,103566,Electric,"Automatic (AT/CVT)","2nd Owner","Gurugram (Gurgaon)",HR-26/55,19116000,3478636
+399,"Mercedes-Benz India","EQS 580 4MATIC",Car,2020,6,69066,Electric,"Automatic (AT/CVT)","3rd Owner","Dehradun",UK-07,22032000,6334152
+400,"Mercedes-Benz India","S-Class",Car,2024,2,23066,Petrol,"Automatic (AT/CVT)","1st Owner","Visakhapatnam (Vizag)",AP-31/32,17700000,12456336
+401,"Mercedes-Benz India","S-Class",Car,2017,9,103566,Diesel,"Automatic (AT/CVT)","2nd Owner","Gurugram (Gurgaon)",HR-26/55,20886000,3801059
+402,"Mercedes-Benz India","S-Class",Car,2020,6,69066,Petrol,"Automatic (AT/CVT)","3rd Owner","Dehradun",UK-07,24072000,6920845
+403,"Mercedes-Benz India","A-Class Limousine",Car,2024,2,23066,Petrol,"DCT","1st Owner","Visakhapatnam (Vizag)",AP-31/32,4605000,3240075
+404,"Mercedes-Benz India","A-Class Limousine",Car,2017,9,103566,Diesel,"DCT","2nd Owner","Gurugram (Gurgaon)",HR-26/55,5433900,986304
+405,"Mercedes-Benz India","A-Class Limousine",Car,2020,6,69066,Petrol,"DCT","3rd Owner","Dehradun",UK-07,6262800,1799009
+406,"Audi India","A4",Car,2025,1,12903,Petrol,"DCT","2nd Owner","Vadodara",GJ-06,4602000,3279738
+407,"Audi India","A4",Car,2018,8,93403,Petrol,"DCT","3rd Owner","Faridabad",HR-38,5430360,977465
+408,"Audi India","A4",Car,2021,5,58903,Petrol,"DCT","1st Owner","Ranchi",JH-01,6258720,2637649
+409,"Audi India","A6",Car,2025,1,12903,Petrol,"DCT","2nd Owner","Vadodara",GJ-06,6441000,4590945
+410,"Audi India","A6",Car,2018,8,93403,Petrol,"DCT","3rd Owner","Faridabad",HR-38,7600380,1368068
+411,"Audi India","A6",Car,2021,5,58903,Petrol,"DCT","1st Owner","Ranchi",JH-01,8759760,3692963
+412,"Audi India","Q3 & Q3 Sportback",Car,2025,1,12903,Petrol,"DCT","2nd Owner","Vadodara",GJ-06,4381000,3122165
+413,"Audi India","Q3 & Q3 Sportback",Car,2018,8,93403,Petrol,"DCT","3rd Owner","Faridabad",HR-38,5169580,930524
+414,"Audi India","Q3 & Q3 Sportback",Car,2021,5,58903,Petrol,"DCT","1st Owner","Ranchi",JH-01,5958160,2510828
+415,"Audi India","Q5",Car,2025,1,12903,Petrol,"DCT","2nd Owner","Vadodara",GJ-06,6551000,4669375
+416,"Audi India","Q5",Car,2018,8,93403,Petrol,"DCT","3rd Owner","Faridabad",HR-38,7730180,1391432
+417,"Audi India","Q5",Car,2021,5,58903,Petrol,"DCT","1st Owner","Ranchi",JH-01,8909360,3756086
+418,"Audi India","Q7",Car,2025,1,12903,Petrol,"Automatic (AT/CVT)","2nd Owner","Vadodara",GJ-06,8866000,6319970
+419,"Audi India","Q7",Car,2018,8,93403,Petrol,"Automatic (AT/CVT)","3rd Owner","Faridabad",HR-38,10461880,1883138
+420,"Audi India","Q7",Car,2021,5,58903,Petrol,"Automatic (AT/CVT)","1st Owner","Ranchi",JH-01,12057760,5084554
+421,"Audi India","Q8 & RS Q8",Car,2025,1,12903,Petrol,"Automatic (AT/CVT)","2nd Owner","Vadodara",GJ-06,11700000,8340612
+422,"Audi India","Q8 & RS Q8",Car,2018,8,93403,Petrol,"Automatic (AT/CVT)","3rd Owner","Faridabad",HR-38,13806000,2485080
+423,"Audi India","Q8 & RS Q8",Car,2021,5,58903,Petrol,"Automatic (AT/CVT)","1st Owner","Ranchi",JH-01,15912000,6710850
+424,"Audi India","e-tron GT",Car,2025,1,12903,Electric,"Automatic (AT/CVT)","2nd Owner","Vadodara",GJ-06,17200000,12262112
+425,"Audi India","e-tron GT",Car,2018,8,93403,Electric,"Automatic (AT/CVT)","3rd Owner","Faridabad",HR-38,20296000,3653280
+426,"Audi India","e-tron GT",Car,2021,5,58903,Electric,"Automatic (AT/CVT)","1st Owner","Ranchi",JH-01,23392000,9867036
+427,"Land Rover","Defender 90/110/130",Car,2016,10,117740,Petrol,"Automatic (AT/CVT)","3rd Owner","Ludhiana",PB-10,9700000,1746000
+428,"Land Rover","Defender 90/110/130",Car,2019,7,83240,Diesel,"Automatic (AT/CVT)","1st Owner","Ghaziabad",UP-14,11446000,2967328
+429,"Land Rover","Defender 90/110/130",Car,2022,4,48740,Petrol,"Automatic (AT/CVT)","2nd Owner","Raipur",CG-04,13192000,6181199
+430,"Land Rover","Range Rover Velar",Car,2016,10,117740,Petrol,"Automatic (AT/CVT)","3rd Owner","Ludhiana",PB-10,8790000,1582200
+431,"Land Rover","Range Rover Velar",Car,2019,7,83240,Diesel,"Automatic (AT/CVT)","1st Owner","Ghaziabad",UP-14,10372200,2688462
+432,"Land Rover","Range Rover Velar",Car,2022,4,48740,Petrol,"Automatic (AT/CVT)","2nd Owner","Raipur",CG-04,11954400,5600973
+433,"Land Rover","Range Rover Sport",Car,2016,10,117740,Petrol,"Automatic (AT/CVT)","3rd Owner","Ludhiana",PB-10,14000000,2520000
+434,"Land Rover","Range Rover Sport",Car,2019,7,83240,Diesel,"Automatic (AT/CVT)","1st Owner","Ghaziabad",UP-14,16520000,4285046
+435,"Land Rover","Range Rover Sport",Car,2022,4,48740,Petrol,"Automatic (AT/CVT)","2nd Owner","Raipur",CG-04,19040000,8922929
+436,"Land Rover","Range Rover Flagship",Car,2016,10,117740,Petrol,"Automatic (AT/CVT)","3rd Owner","Ludhiana",PB-10,23600000,4248000
+437,"Land Rover","Range Rover Flagship",Car,2019,7,83240,Diesel,"Automatic (AT/CVT)","1st Owner","Ghaziabad",UP-14,27848000,7226928
+438,"Land Rover","Range Rover Flagship",Car,2022,4,48740,Petrol,"Automatic (AT/CVT)","2nd Owner","Raipur",CG-04,32096000,15043999
+439,"Land Rover","Discovery Sport",Car,2016,10,117740,Petrol,"Automatic (AT/CVT)","3rd Owner","Ludhiana",PB-10,6790000,1222200
+440,"Land Rover","Discovery Sport",Car,2019,7,83240,Diesel,"Automatic (AT/CVT)","1st Owner","Ghaziabad",UP-14,8012200,2075570
+441,"Land Rover","Discovery Sport",Car,2022,4,48740,Petrol,"Automatic (AT/CVT)","2nd Owner","Raipur",CG-04,9234400,4325750
+442,"Land Rover","Range Rover Evoque",Car,2016,10,117740,Petrol,"Automatic (AT/CVT)","3rd Owner","Ludhiana",PB-10,6790000,1222200
+443,"Land Rover","Range Rover Evoque",Car,2019,7,83240,Diesel,"Automatic (AT/CVT)","1st Owner","Ghaziabad",UP-14,8012200,2075570
+444,"Land Rover","Range Rover Evoque",Car,2022,4,48740,Petrol,"Automatic (AT/CVT)","2nd Owner","Raipur",CG-04,9234400,4325750
+445,"Jaguar","F-Pace",Car,2017,9,107577,Petrol,"Automatic (AT/CVT)","1st Owner","Noida / Greater Noida",UP-16,7290000,1421695
+446,"Jaguar","F-Pace",Car,2020,6,73077,Diesel,"Automatic (AT/CVT)","2nd Owner","Bhubaneswar",OD-02,8602200,2709087
+447,"Jaguar","F-Pace",Car,2023,3,38577,Petrol,"Automatic (AT/CVT)","3rd Owner","Guwahati",AS-01,9914400,4825344
+448,"Jaguar","I-Pace Electric",Car,2017,9,107577,Electric,"Automatic (AT/CVT)","1st Owner","Noida / Greater Noida",UP-16,12500000,2442855
+449,"Jaguar","I-Pace Electric",Car,2020,6,73077,Electric,"Automatic (AT/CVT)","2nd Owner","Bhubaneswar",OD-02,14750000,4649086
+450,"Jaguar","I-Pace Electric",Car,2023,3,38577,Electric,"Automatic (AT/CVT)","3rd Owner","Guwahati",AS-01,17000000,8276637
+451,"Jaguar","F-Type (Pre-Owned)",Car,2017,9,107577,Petrol,"Automatic (AT/CVT)","1st Owner","Noida / Greater Noida",UP-16,10000000,1952855
+452,"Jaguar","F-Type (Pre-Owned)",Car,2020,6,73077,Petrol,"Automatic (AT/CVT)","2nd Owner","Bhubaneswar",OD-02,11800000,3718184
+453,"Jaguar","F-Type (Pre-Owned)",Car,2023,3,38577,Petrol,"Automatic (AT/CVT)","3rd Owner","Guwahati",AS-01,13600000,6620546
+454,"Jaguar","XE (Pre-Owned)",Car,2017,9,107577,Petrol,"Automatic (AT/CVT)","1st Owner","Noida / Greater Noida",UP-16,4800000,933655
+455,"Jaguar","XE (Pre-Owned)",Car,2020,6,73077,Diesel,"Automatic (AT/CVT)","2nd Owner","Bhubaneswar",OD-02,5664000,1781908
+456,"Jaguar","XE (Pre-Owned)",Car,2023,3,38577,Petrol,"Automatic (AT/CVT)","3rd Owner","Guwahati",AS-01,6528000,3175878
+457,"Jaguar","XF (Pre-Owned)",Car,2017,9,107577,Petrol,"Automatic (AT/CVT)","1st Owner","Noida / Greater Noida",UP-16,7100000,1384455
+458,"Jaguar","XF (Pre-Owned)",Car,2020,6,73077,Diesel,"Automatic (AT/CVT)","2nd Owner","Bhubaneswar",OD-02,8378000,2638338
+459,"Jaguar","XF (Pre-Owned)",Car,2023,3,38577,Petrol,"Automatic (AT/CVT)","3rd Owner","Guwahati",AS-01,9656000,4699481
+460,"Volvo Cars","XC40 Recharge / EX40",Car,2018,8,97414,Electric,"Automatic (AT/CVT)","2nd Owner","Gurugram (Gurgaon)",HR-26/55,5610000,1014629
+461,"Volvo Cars","XC40 Recharge / EX40",Car,2021,5,62914,Electric,"Automatic (AT/CVT)","3rd Owner","Dehradun",UK-07,6619800,2360651
+462,"Volvo Cars","XC40 Recharge / EX40",Car,2024,2,28414,Electric,"Automatic (AT/CVT)","1st Owner","Goa (Panaji / Margao)",GA-01/02,7629600,5364152
+463,"Volvo Cars","C40 Recharge / EC40",Car,2018,8,97414,Electric,"Automatic (AT/CVT)","2nd Owner","Gurugram (Gurgaon)",HR-26/55,6295000,1139409
+464,"Volvo Cars","C40 Recharge / EC40",Car,2021,5,62914,Electric,"Automatic (AT/CVT)","3rd Owner","Dehradun",UK-07,7428100,2649569
+465,"Volvo Cars","C40 Recharge / EC40",Car,2024,2,28414,Electric,"Automatic (AT/CVT)","1st Owner","Goa (Panaji / Margao)",GA-01/02,8561200,6019812
+466,"Volvo Cars","XC60",Car,2018,8,97414,Petrol,"Automatic (AT/CVT)","2nd Owner","Gurugram (Gurgaon)",HR-26/55,6890000,1247794
+467,"Volvo Cars","XC60",Car,2021,5,62914,Hybrid,"Automatic (AT/CVT)","3rd Owner","Dehradun",UK-07,8130200,2900527
+468,"Volvo Cars","XC60",Car,2024,2,28414,Petrol,"Automatic (AT/CVT)","1st Owner","Goa (Panaji / Margao)",GA-01/02,9370400,6589327
+469,"Volvo Cars","XC90 Flagship",Car,2018,8,97414,Petrol,"Automatic (AT/CVT)","2nd Owner","Gurugram (Gurgaon)",HR-26/55,10100000,1832528
+470,"Volvo Cars","XC90 Flagship",Car,2021,5,62914,Hybrid,"Automatic (AT/CVT)","3rd Owner","Dehradun",UK-07,11918000,4254436
+471,"Volvo Cars","XC90 Flagship",Car,2024,2,28414,Petrol,"Automatic (AT/CVT)","1st Owner","Goa (Panaji / Margao)",GA-01/02,13736000,9661836
+472,"Volvo Cars","S90",Car,2018,8,97414,Petrol,"Automatic (AT/CVT)","2nd Owner","Gurugram (Gurgaon)",HR-26/55,6825000,1235954
+473,"Volvo Cars","S90",Car,2021,5,62914,Hybrid,"Automatic (AT/CVT)","3rd Owner","Dehradun",UK-07,8053500,2873112
+474,"Volvo Cars","S90",Car,2024,2,28414,Petrol,"Automatic (AT/CVT)","1st Owner","Goa (Panaji / Margao)",GA-01/02,9282000,6527111
+475,"Porsche India","Taycan",Car,2019,7,87251,Electric,"Automatic (AT/CVT)","3rd Owner","Faridabad",HR-38,16100000,3498623
+476,"Porsche India","Taycan",Car,2022,4,52751,Electric,"Automatic (AT/CVT)","1st Owner","Ranchi",JH-01,18998000,9575376
+477,"Porsche India","Taycan",Car,2025,1,18251,Electric,"Automatic (AT/CVT)","2nd Owner","Mysuru (Mysore)",KA-09,21896000,16698610
+478,"Porsche India","Macan / Macan EV",Car,2019,7,87251,Petrol,"Automatic (AT/CVT)","3rd Owner","Faridabad",HR-38,9600000,2083245
+479,"Porsche India","Macan / Macan EV",Car,2022,4,52751,Electric,"DCT","1st Owner","Ranchi",JH-01,11328000,5706628
+480,"Porsche India","Macan / Macan EV",Car,2025,1,18251,Petrol,"Automatic (AT/CVT)","2nd Owner","Mysuru (Mysore)",KA-09,13056000,9954486
+481,"Porsche India","Cayenne & Coupe",Car,2019,7,87251,Petrol,"Automatic (AT/CVT)","3rd Owner","Faridabad",HR-38,14200000,3084897
+482,"Porsche India","Cayenne & Coupe",Car,2022,4,52751,Hybrid,"Automatic (AT/CVT)","1st Owner","Ranchi",JH-01,16756000,8444511
+483,"Porsche India","Cayenne & Coupe",Car,2025,1,18251,Petrol,"Automatic (AT/CVT)","2nd Owner","Mysuru (Mysore)",KA-09,19312000,14727251
+484,"Porsche India","911 Carrera (992.2)",Car,2019,7,87251,Petrol,"DCT","3rd Owner","Faridabad",HR-38,19800000,4304300
+485,"Porsche India","911 Carrera (992.2)",Car,2022,4,52751,Hybrid,"DCT","1st Owner","Ranchi",JH-01,23364000,11777586
+486,"Porsche India","911 Carrera (992.2)",Car,2025,1,18251,Petrol,"DCT","2nd Owner","Mysuru (Mysore)",KA-09,26928000,20537573
+487,"Porsche India","Panamera",Car,2019,7,87251,Petrol,"DCT","3rd Owner","Faridabad",HR-38,17000000,3694599
+488,"Porsche India","Panamera",Car,2022,4,52751,Hybrid,"DCT","1st Owner","Ranchi",JH-01,20060000,10111049
+489,"Porsche India","Panamera",Car,2025,1,18251,Petrol,"DCT","2nd Owner","Mysuru (Mysore)",KA-09,23120000,17632412
+490,"Porsche India","718 Cayman / Boxster",Car,2019,7,87251,Petrol,"DCT","3rd Owner","Faridabad",HR-38,14800000,3215548
+491,"Porsche India","718 Cayman / Boxster",Car,2022,4,52751,Petrol,"DCT","1st Owner","Ranchi",JH-01,17464000,8801626
+492,"Porsche India","718 Cayman / Boxster",Car,2025,1,18251,Petrol,"DCT","2nd Owner","Mysuru (Mysore)",KA-09,20128000,15349785
+493,"Lexus India","ES 300h",Car,2020,6,69088,Hybrid,"Automatic (AT/CVT)","1st Owner","Ghaziabad",UP-14,6400000,2192628
+494,"Lexus India","ES 300h",Car,2023,3,34588,Hybrid,"Automatic (AT/CVT)","2nd Owner","Raipur",CG-04,7552000,4118157
+495,"Lexus India","ES 300h",Car,2016,10,115088,Hybrid,"Automatic (AT/CVT)","3rd Owner","Amritsar",PB-02,8704000,1566720
+496,"Lexus India","NX 350h",Car,2020,6,69088,Hybrid,"Automatic (AT/CVT)","1st Owner","Ghaziabad",UP-14,6735000,2307533
+497,"Lexus India","NX 350h",Car,2023,3,34588,Hybrid,"Automatic (AT/CVT)","2nd Owner","Raipur",CG-04,7947300,4333781
+498,"Lexus India","NX 350h",Car,2016,10,115088,Hybrid,"Automatic (AT/CVT)","3rd Owner","Amritsar",PB-02,9159600,1648728
+499,"Lexus India","RX 350h / 500h F Sport",Car,2020,6,69088,Hybrid,"Automatic (AT/CVT)","1st Owner","Ghaziabad",UP-14,9580000,3283368
+500,"Lexus India","RX 350h / 500h F Sport",Car,2023,3,34588,Hybrid,"Automatic (AT/CVT)","2nd Owner","Raipur",CG-04,11304400,6164971
+501,"Lexus India","RX 350h / 500h F Sport",Car,2016,10,115088,Hybrid,"Automatic (AT/CVT)","3rd Owner","Amritsar",PB-02,13028800,2345184
+502,"Lexus India","LX 500d 4x4",Car,2020,6,69088,Diesel,"Automatic (AT/CVT)","1st Owner","Ghaziabad",UP-14,28200000,9670028
+503,"Lexus India","LX 500d 4x4",Car,2023,3,34588,Diesel,"Automatic (AT/CVT)","2nd Owner","Raipur",CG-04,33276000,18149776
+504,"Lexus India","LX 500d 4x4",Car,2016,10,115088,Diesel,"Automatic (AT/CVT)","3rd Owner","Amritsar",PB-02,38352000,6903360
+505,"Lexus India","LM 350h MPV",Car,2020,6,69088,Hybrid,"Automatic (AT/CVT)","1st Owner","Ghaziabad",UP-14,20000000,6857428
+506,"Lexus India","LM 350h MPV",Car,2023,3,34588,Hybrid,"Automatic (AT/CVT)","2nd Owner","Raipur",CG-04,23600000,12871828
+507,"Lexus India","LM 350h MPV",Car,2016,10,115088,Hybrid,"Automatic (AT/CVT)","3rd Owner","Amritsar",PB-02,27200000,4896000
+508,"Lexus India","LC 500h",Car,2020,6,69088,Hybrid,"Automatic (AT/CVT)","1st Owner","Ghaziabad",UP-14,23900000,8195128
+509,"Lexus India","LC 500h",Car,2023,3,34588,Hybrid,"Automatic (AT/CVT)","2nd Owner","Raipur",CG-04,28202000,15382072
+510,"Lexus India","LC 500h",Car,2016,10,115088,Hybrid,"Automatic (AT/CVT)","3rd Owner","Amritsar",PB-02,32504000,5850720
+511,"MINI India","Cooper S 3-Door",Car,2021,5,58925,Petrol,"DCT","2nd Owner","Bhubaneswar",OD-02,4490000,1757952
+512,"MINI India","Cooper S 3-Door",Car,2024,2,24425,Petrol,"DCT","3rd Owner","Guwahati",AS-01,5298200,2941591
+513,"MINI India","Cooper S 3-Door",Car,2017,9,104925,Petrol,"DCT","1st Owner","Jalandhar",PB-08,6106400,1216244
+514,"MINI India","Countryman Electric",Car,2021,5,58925,Electric,"Automatic (AT/CVT)","2nd Owner","Bhubaneswar",OD-02,5490000,2150148
+515,"MINI India","Countryman Electric",Car,2024,2,24425,Electric,"Automatic (AT/CVT)","3rd Owner","Guwahati",AS-01,6478200,3597104
+516,"MINI India","Countryman Electric",Car,2017,9,104925,Electric,"Automatic (AT/CVT)","1st Owner","Jalandhar",PB-08,7466400,1488244
+517,"MINI India","Cooper SE EV",Car,2021,5,58925,Electric,"Automatic (AT/CVT)","2nd Owner","Bhubaneswar",OD-02,5350000,2095241
+518,"MINI India","Cooper SE EV",Car,2024,2,24425,Electric,"Automatic (AT/CVT)","3rd Owner","Guwahati",AS-01,6313000,3505332
+519,"MINI India","Cooper SE EV",Car,2017,9,104925,Electric,"Automatic (AT/CVT)","1st Owner","Jalandhar",PB-08,7276000,1450164
+520,"MINI India","John Cooper Works (JCW)",Car,2021,5,58925,Petrol,"DCT","2nd Owner","Bhubaneswar",OD-02,4770000,1867767
+521,"MINI India","John Cooper Works (JCW)",Car,2024,2,24425,Petrol,"DCT","3rd Owner","Guwahati",AS-01,5628600,3125135
+522,"MINI India","John Cooper Works (JCW)",Car,2017,9,104925,Petrol,"DCT","1st Owner","Jalandhar",PB-08,6487200,1292404
+523,"Ferrari","296 GTB / GTS",Car,2022,4,48762,Hybrid,"DCT","3rd Owner","Dehradun",UK-07,54000000,23070010
+524,"Ferrari","296 GTB / GTS",Car,2025,1,14262,Hybrid,"DCT","1st Owner","Goa (Panaji / Margao)",GA-01/02,63720000,50367832
+525,"Ferrari","296 GTB / GTS",Car,2018,8,94762,Hybrid,"DCT","2nd Owner","Varanasi",UP-65,73440000,13237519
+526,"Ferrari","Roma & Roma Spider",Car,2022,4,48762,Petrol,"DCT","3rd Owner","Dehradun",UK-07,37600000,16062552
+527,"Ferrari","Roma & Roma Spider",Car,2025,1,14262,Petrol,"DCT","1st Owner","Goa (Panaji / Margao)",GA-01/02,44368000,35070076
+528,"Ferrari","Roma & Roma Spider",Car,2018,8,94762,Petrol,"DCT","2nd Owner","Varanasi",UP-65,51136000,9215661
+529,"Ferrari","Purosangue V12",Car,2022,4,48762,Petrol,"DCT","3rd Owner","Dehradun",UK-07,105000000,44861494
+530,"Ferrari","Purosangue V12",Car,2025,1,14262,Petrol,"DCT","1st Owner","Goa (Panaji / Margao)",GA-01/02,123900000,97940122
+531,"Ferrari","Purosangue V12",Car,2018,8,94762,Petrol,"DCT","2nd Owner","Varanasi",UP-65,142800000,25744514
+532,"Ferrari","SF90 Stradale",Car,2022,4,48762,Hybrid,"DCT","3rd Owner","Dehradun",UK-07,75000000,32042974
+533,"Ferrari","SF90 Stradale",Car,2025,1,14262,Hybrid,"DCT","1st Owner","Goa (Panaji / Margao)",GA-01/02,88500000,69956422
+534,"Ferrari","SF90 Stradale",Car,2018,8,94762,Hybrid,"DCT","2nd Owner","Varanasi",UP-65,102000000,18387458
+535,"Lamborghini","Urus S / Performante / SE",Car,2023,3,38599,Petrol,"Automatic (AT/CVT)","1st Owner","Ranchi",JH-01,41800000,24525714
+536,"Lamborghini","Urus S / Performante / SE",Car,2016,10,119099,Hybrid,"Automatic (AT/CVT)","2nd Owner","Mysuru (Mysore)",KA-09,49324000,9703296
+537,"Lamborghini","Urus S / Performante / SE",Car,2019,7,84599,Petrol,"Automatic (AT/CVT)","3rd Owner","Kanpur",UP-78,56848000,12248389
+538,"Lamborghini","Revuelto V12 Hybrid",Car,2023,3,38599,Hybrid,"DCT","1st Owner","Ranchi",JH-01,88900000,52166349
+539,"Lamborghini","Revuelto V12 Hybrid",Car,2016,10,119099,Hybrid,"DCT","2nd Owner","Mysuru (Mysore)",KA-09,104902000,20645492
+540,"Lamborghini","Revuelto V12 Hybrid",Car,2019,7,84599,Hybrid,"DCT","3rd Owner","Kanpur",UP-78,120904000,26055724
+541,"Lamborghini","Huracán EVO / Tecnica / STO",Car,2023,3,38599,Petrol,"DCT","1st Owner","Ranchi",JH-01,32200000,18891954
+542,"Lamborghini","Huracán EVO / Tecnica / STO",Car,2016,10,119099,Petrol,"DCT","2nd Owner","Mysuru (Mysore)",KA-09,37996000,7473039
+543,"Lamborghini","Huracán EVO / Tecnica / STO",Car,2019,7,84599,Petrol,"DCT","3rd Owner","Kanpur",UP-78,43792000,9434156
+544,"Aston Martin","DBX 707 Super SUV",Car,2024,2,28436,Petrol,"Automatic (AT/CVT)","2nd Owner","Raipur",CG-04,46300000,28798483
+545,"Aston Martin","DBX 707 Super SUV",Car,2017,9,108936,Petrol,"Automatic (AT/CVT)","3rd Owner","Amritsar",PB-02,54634000,9834120
+546,"Aston Martin","DBX 707 Super SUV",Car,2020,6,74436,Petrol,"Automatic (AT/CVT)","1st Owner","Agra",UP-80,62968000,21590997
+547,"Aston Martin","DB12 Super Tourer",Car,2024,2,28436,Petrol,"Automatic (AT/CVT)","2nd Owner","Raipur",CG-04,45900000,28549641
+548,"Aston Martin","DB12 Super Tourer",Car,2017,9,108936,Petrol,"Automatic (AT/CVT)","3rd Owner","Amritsar",PB-02,54162000,9749160
+549,"Aston Martin","DB12 Super Tourer",Car,2020,6,74436,Petrol,"Automatic (AT/CVT)","1st Owner","Agra",UP-80,62424000,21404405
+550,"Aston Martin","Vantage V8",Car,2024,2,28436,Petrol,"Automatic (AT/CVT)","2nd Owner","Raipur",CG-04,39900000,24817017
+551,"Aston Martin","Vantage V8",Car,2017,9,108936,Petrol,"Automatic (AT/CVT)","3rd Owner","Amritsar",PB-02,47082000,8474760
+552,"Aston Martin","Vantage V8",Car,2020,6,74436,Petrol,"Automatic (AT/CVT)","1st Owner","Agra",UP-80,54264000,18605525
+553,"Bentley Motors","Bentayga EWB",Car,2025,1,18273,Petrol,"Automatic (AT/CVT)","3rd Owner","Guwahati",AS-01,41000000,25577075
+554,"Bentley Motors","Bentayga EWB",Car,2018,8,98773,Hybrid,"Automatic (AT/CVT)","1st Owner","Jalandhar",PB-08,48380000,9666843
+555,"Bentley Motors","Bentayga EWB",Car,2021,5,64273,Petrol,"Automatic (AT/CVT)","2nd Owner","Meerut",UP-15,55760000,21861743
+556,"Bentley Motors","Continental GT Speed",Car,2025,1,18273,Hybrid,"DCT","3rd Owner","Guwahati",AS-01,52300000,32627739
+557,"Bentley Motors","Continental GT Speed",Car,2018,8,98773,Hybrid,"DCT","1st Owner","Jalandhar",PB-08,61714000,12333643
+558,"Bentley Motors","Continental GT Speed",Car,2021,5,64273,Hybrid,"DCT","2nd Owner","Meerut",UP-15,71128000,27889011
+559,"Bentley Motors","Flying Spur",Car,2025,1,18273,Hybrid,"DCT","3rd Owner","Guwahati",AS-01,52500000,32752529
+560,"Bentley Motors","Flying Spur",Car,2018,8,98773,Hybrid,"DCT","1st Owner","Jalandhar",PB-08,61950000,12380843
+561,"Bentley Motors","Flying Spur",Car,2021,5,64273,Hybrid,"DCT","2nd Owner","Meerut",UP-15,71400000,27995688
+562,"Royal Enfield","Classic 350",Bike,2016,10,55000,Petrol,"Manual","1st Owner","New Delhi / NCR",DL-01/08,195000,46800
+563,"Royal Enfield","Classic 350",Bike,2020,6,33000,Petrol,"Manual","2nd Owner","Mumbai",MH-01/02,230100,95579
+564,"Royal Enfield","Hunter 350",Bike,2016,10,55000,Petrol,"Manual","1st Owner","New Delhi / NCR",DL-01/08,149900,35976
+565,"Royal Enfield","Hunter 350",Bike,2020,6,33000,Petrol,"Manual","2nd Owner","Mumbai",MH-01/02,176882,73473
+566,"Royal Enfield","Bullet 350",Bike,2016,10,55000,Petrol,"Manual","1st Owner","New Delhi / NCR",DL-01/08,174000,41760
+567,"Royal Enfield","Bullet 350",Bike,2020,6,33000,Petrol,"Manual","2nd Owner","Mumbai",MH-01/02,205320,85286
+568,"Royal Enfield","Meteor 350",Bike,2016,10,55000,Petrol,"Manual","1st Owner","New Delhi / NCR",DL-01/08,205000,49200
+569,"Royal Enfield","Meteor 350",Bike,2020,6,33000,Petrol,"Manual","2nd Owner","Mumbai",MH-01/02,241900,100480
+570,"Royal Enfield","Himalayan 450",Bike,2016,10,55000,Petrol,"Manual","1st Owner","New Delhi / NCR",DL-01/08,285000,68400
+571,"Royal Enfield","Himalayan 450",Bike,2020,6,33000,Petrol,"Manual","2nd Owner","Mumbai",MH-01/02,336300,139692
+572,"Royal Enfield","Guerrilla 450",Bike,2016,10,55000,Petrol,"Manual","1st Owner","New Delhi / NCR",DL-01/08,239000,57360
+573,"Royal Enfield","Guerrilla 450",Bike,2020,6,33000,Petrol,"Manual","2nd Owner","Mumbai",MH-01/02,282020,117145
+574,"Royal Enfield","Continental GT 650",Bike,2016,10,55000,Petrol,"Manual","1st Owner","New Delhi / NCR",DL-01/08,319000,76560
+575,"Royal Enfield","Continental GT 650",Bike,2020,6,33000,Petrol,"Manual","2nd Owner","Mumbai",MH-01/02,376420,156357
+576,"Royal Enfield","Interceptor 650",Bike,2016,10,55000,Petrol,"Manual","1st Owner","New Delhi / NCR",DL-01/08,303000,72720
+577,"Royal Enfield","Interceptor 650",Bike,2020,6,33000,Petrol,"Manual","2nd Owner","Mumbai",MH-01/02,357540,148515
+578,"Royal Enfield","Super Meteor 650",Bike,2016,10,55000,Petrol,"Manual","1st Owner","New Delhi / NCR",DL-01/08,364000,87360
+579,"Royal Enfield","Super Meteor 650",Bike,2020,6,33000,Petrol,"Manual","2nd Owner","Mumbai",MH-01/02,429520,178414
+580,"Royal Enfield","Shotgun 650",Bike,2016,10,55000,Petrol,"Manual","1st Owner","New Delhi / NCR",DL-01/08,359000,86160
+581,"Royal Enfield","Shotgun 650",Bike,2020,6,33000,Petrol,"Manual","2nd Owner","Mumbai",MH-01/02,423620,175963
+582,"Royal Enfield","Bear 650",Bike,2016,10,55000,Petrol,"Manual","1st Owner","New Delhi / NCR",DL-01/08,349000,83760
+583,"Royal Enfield","Bear 650",Bike,2020,6,33000,Petrol,"Manual","2nd Owner","Mumbai",MH-01/02,411820,171062
+584,"Hero MotoCorp","Splendor Plus XTEC",Bike,2018,8,44991,Petrol,"Manual","2nd Owner","Hyderabad",TS-07/08/09,75441,19879
+585,"Hero MotoCorp","Splendor Plus XTEC",Bike,2022,4,22991,Petrol,"Manual","3rd Owner","Chennai",TN-01/02/07,89020,44802
+586,"Hero MotoCorp","HF Deluxe",Bike,2018,8,44991,Petrol,"Manual","2nd Owner","Hyderabad",TS-07/08/09,59998,15742
+587,"Hero MotoCorp","HF Deluxe",Bike,2022,4,22991,Petrol,"Manual","3rd Owner","Chennai",TN-01/02/07,70798,35569
+588,"Hero MotoCorp","Karizma XMR 210",Bike,2018,8,44991,Petrol,"Manual","2nd Owner","Hyderabad",TS-07/08/09,179900,47864
+589,"Hero MotoCorp","Karizma XMR 210",Bike,2022,4,22991,Petrol,"Manual","3rd Owner","Chennai",TN-01/02/07,212282,107258
+590,"Hero MotoCorp","Xpulse 200 4V",Bike,2018,8,44991,Petrol,"Manual","2nd Owner","Hyderabad",TS-07/08/09,147391,39155
+591,"Hero MotoCorp","Xpulse 200 4V",Bike,2022,4,22991,Petrol,"Manual","3rd Owner","Chennai",TN-01/02/07,173921,87821
+592,"Hero MotoCorp","Mavrick 440",Bike,2018,8,44991,Petrol,"Manual","2nd Owner","Hyderabad",TS-07/08/09,199000,52981
+593,"Hero MotoCorp","Mavrick 440",Bike,2022,4,22991,Petrol,"Manual","3rd Owner","Chennai",TN-01/02/07,234820,118677
+594,"Hero MotoCorp","Xtreme 125R",Bike,2018,8,44991,Petrol,"Manual","2nd Owner","Hyderabad",TS-07/08/09,95000,25119
+595,"Hero MotoCorp","Xtreme 125R",Bike,2022,4,22991,Petrol,"Manual","3rd Owner","Chennai",TN-01/02/07,112100,56497
+596,"Hero MotoCorp","Xtreme 160R 4V",Bike,2018,8,44991,Petrol,"Manual","2nd Owner","Hyderabad",TS-07/08/09,127300,33772
+597,"Hero MotoCorp","Xtreme 160R 4V",Bike,2022,4,22991,Petrol,"Manual","3rd Owner","Chennai",TN-01/02/07,150214,75809
+598,"Hero MotoCorp","Xtreme 200S 4V",Bike,2018,8,44991,Petrol,"Manual","2nd Owner","Hyderabad",TS-07/08/09,141250,37510
+599,"Hero MotoCorp","Xtreme 200S 4V",Bike,2022,4,22991,Petrol,"Manual","3rd Owner","Chennai",TN-01/02/07,166675,84149
+600,"Hero MotoCorp","Glamour XTEC",Bike,2018,8,44991,Petrol,"Manual","2nd Owner","Hyderabad",TS-07/08/09,87748,23176
+601,"Hero MotoCorp","Glamour XTEC",Bike,2022,4,22991,Petrol,"Manual","3rd Owner","Chennai",TN-01/02/07,103543,52161
+602,"Hero MotoCorp","Passion XTEC",Bike,2018,8,44991,Petrol,"Manual","2nd Owner","Hyderabad",TS-07/08/09,80000,21100
+603,"Hero MotoCorp","Passion XTEC",Bike,2022,4,22991,Petrol,"Manual","3rd Owner","Chennai",TN-01/02/07,94400,47528
+604,"Hero MotoCorp","Destini 125 XTEC",Bike,2018,8,44991,Petrol,"Automatic (AT/CVT)","2nd Owner","Hyderabad",TS-07/08/09,80048,21113
+605,"Hero MotoCorp","Destini 125 XTEC",Bike,2022,4,22991,Petrol,"Automatic (AT/CVT)","3rd Owner","Chennai",TN-01/02/07,94457,47557
+606,"Hero MotoCorp","Pleasure Plus XTEC",Bike,2018,8,44991,Petrol,"Automatic (AT/CVT)","2nd Owner","Hyderabad",TS-07/08/09,71213,18746
+607,"Hero MotoCorp","Pleasure Plus XTEC",Bike,2022,4,22991,Petrol,"Automatic (AT/CVT)","3rd Owner","Chennai",TN-01/02/07,84031,42274
+608,"Hero MotoCorp","Xoom 110 & 160",Bike,2018,8,44991,Petrol,"Automatic (AT/CVT)","2nd Owner","Hyderabad",TS-07/08/09,75999,20029
+609,"Hero MotoCorp","Xoom 110 & 160",Bike,2022,4,22991,Petrol,"Automatic (AT/CVT)","3rd Owner","Chennai",TN-01/02/07,89679,45136
+610,"Bajaj Auto","Pulsar NS200",Bike,2020,6,34982,Petrol,"Manual","3rd Owner","Pune",MH-12/14,158000,58746
+611,"Bajaj Auto","Pulsar NS200",Bike,2024,2,12982,Petrol,"Manual","1st Owner","Ahmedabad",GJ-01/27,186440,136762
+612,"Bajaj Auto","Pulsar NS400Z",Bike,2020,6,34982,Petrol,"Manual","3rd Owner","Pune",MH-12/14,185000,68889
+613,"Bajaj Auto","Pulsar NS400Z",Bike,2024,2,12982,Petrol,"Manual","1st Owner","Ahmedabad",GJ-01/27,218300,160252
+614,"Bajaj Auto","Pulsar N160 Dual ABS",Bike,2020,6,34982,Petrol,"Manual","3rd Owner","Pune",MH-12/14,132000,48980
+615,"Bajaj Auto","Pulsar N160 Dual ABS",Bike,2024,2,12982,Petrol,"Manual","1st Owner","Ahmedabad",GJ-01/27,155760,114141
+616,"Bajaj Auto","Pulsar RS200 ABS",Bike,2020,6,34982,Petrol,"Manual","3rd Owner","Pune",MH-12/14,173000,64381
+617,"Bajaj Auto","Pulsar RS200 ABS",Bike,2024,2,12982,Petrol,"Manual","1st Owner","Ahmedabad",GJ-01/27,204140,149812
+618,"Bajaj Auto","Pulsar 150 Classic",Bike,2020,6,34982,Petrol,"Manual","3rd Owner","Pune",MH-12/14,110000,40715
+619,"Bajaj Auto","Pulsar 150 Classic",Bike,2024,2,12982,Petrol,"Manual","1st Owner","Ahmedabad",GJ-01/27,129800,95001
+620,"Bajaj Auto","Pulsar 125 Carbon",Bike,2020,6,34982,Petrol,"Manual","3rd Owner","Pune",MH-12/14,90000,33202
+621,"Bajaj Auto","Pulsar 125 Carbon",Bike,2024,2,12982,Petrol,"Manual","1st Owner","Ahmedabad",GJ-01/27,106200,77601
+622,"Bajaj Auto","Dominar 400 Touring",Bike,2020,6,34982,Petrol,"Manual","3rd Owner","Pune",MH-12/14,232000,86544
+623,"Bajaj Auto","Dominar 400 Touring",Bike,2024,2,12982,Petrol,"Manual","1st Owner","Ahmedabad",GJ-01/27,273760,201143
+624,"Bajaj Auto","Dominar 250",Bike,2020,6,34982,Petrol,"Manual","3rd Owner","Pune",MH-12/14,185000,68889
+625,"Bajaj Auto","Dominar 250",Bike,2024,2,12982,Petrol,"Manual","1st Owner","Ahmedabad",GJ-01/27,218300,160252
+626,"Bajaj Auto","Avenger Cruise 220",Bike,2020,6,34982,Petrol,"Manual","3rd Owner","Pune",MH-12/14,144000,53487
+627,"Bajaj Auto","Avenger Cruise 220",Bike,2024,2,12982,Petrol,"Manual","1st Owner","Ahmedabad",GJ-01/27,169920,124581
+628,"Bajaj Auto","Avenger Street 160",Bike,2020,6,34982,Petrol,"Manual","3rd Owner","Pune",MH-12/14,118000,43720
+629,"Bajaj Auto","Avenger Street 160",Bike,2024,2,12982,Petrol,"Manual","1st Owner","Ahmedabad",GJ-01/27,139240,101961
+630,"Bajaj Auto","Platina 110 ABS",Bike,2020,6,34982,Petrol,"Manual","3rd Owner","Pune",MH-12/14,72000,26441
+631,"Bajaj Auto","Platina 110 ABS",Bike,2024,2,12982,Petrol,"Manual","1st Owner","Ahmedabad",GJ-01/27,84960,61940
+632,"Bajaj Auto","Freedom 125 (World 1st CNG Bike)",Bike,2020,6,34982,CNG,"Manual","3rd Owner","Pune",MH-12/14,95000,35081
+633,"Bajaj Auto","Freedom 125 (World 1st CNG Bike)",Bike,2024,2,12982,Petrol,"Manual","1st Owner","Ahmedabad",GJ-01/27,112100,81951
+634,"Bajaj Auto","Chetak Electric Premium",Bike,2020,6,34982,Electric,"Automatic (AT/CVT)","3rd Owner","Pune",MH-12/14,115000,42594
+635,"Bajaj Auto","Chetak Electric Premium",Bike,2024,2,12982,Electric,"Automatic (AT/CVT)","1st Owner","Ahmedabad",GJ-01/27,135700,99351
+636,"TVS Motor","Apache RTR 160 4V",Bike,2022,4,24973,Petrol,"Manual","1st Owner","Lucknow",UP-32,124000,69462
+637,"TVS Motor","Apache RTR 160 4V",Bike,2016,10,57973,Petrol,"Manual","2nd Owner","Chandigarh / Tricity",CH-01,146320,32696
+638,"TVS Motor","Apache RTR 200 4V",Bike,2022,4,24973,Petrol,"Manual","1st Owner","Lucknow",UP-32,148000,83103
+639,"TVS Motor","Apache RTR 200 4V",Bike,2016,10,57973,Petrol,"Manual","2nd Owner","Chandigarh / Tricity",CH-01,174640,39210
+640,"TVS Motor","Apache RR 310",Bike,2022,4,24973,Petrol,"Manual","1st Owner","Lucknow",UP-32,275000,155290
+641,"TVS Motor","Apache RR 310",Bike,2016,10,57973,Petrol,"Manual","2nd Owner","Chandigarh / Tricity",CH-01,324500,73678
+642,"TVS Motor","Apache RTR 310 (Naked)",Bike,2022,4,24973,Petrol,"Manual","1st Owner","Lucknow",UP-32,250000,141080
+643,"TVS Motor","Apache RTR 310 (Naked)",Bike,2016,10,57973,Petrol,"Manual","2nd Owner","Chandigarh / Tricity",CH-01,295000,66893
+644,"TVS Motor","Raider 125",Bike,2022,4,24973,Petrol,"Manual","1st Owner","Lucknow",UP-32,95000,52978
+645,"TVS Motor","Raider 125",Bike,2016,10,57973,Petrol,"Manual","2nd Owner","Chandigarh / Tricity",CH-01,112100,24826
+646,"TVS Motor","Ronin 225",Bike,2022,4,24973,Petrol,"Manual","1st Owner","Lucknow",UP-32,149000,83672
+647,"TVS Motor","Ronin 225",Bike,2016,10,57973,Petrol,"Manual","2nd Owner","Chandigarh / Tricity",CH-01,175820,39481
+648,"TVS Motor","Jupiter 110 / 125",Bike,2022,4,24973,Petrol,"Automatic (AT/CVT)","1st Owner","Lucknow",UP-32,77000,42747
+649,"TVS Motor","Jupiter 110 / 125",Bike,2016,10,57973,Petrol,"Automatic (AT/CVT)","2nd Owner","Chandigarh / Tricity",CH-01,90860,19940
+650,"TVS Motor","Ntorq 125 Race XP",Bike,2022,4,24973,Petrol,"Automatic (AT/CVT)","1st Owner","Lucknow",UP-32,89000,49568
+651,"TVS Motor","Ntorq 125 Race XP",Bike,2016,10,57973,Petrol,"Automatic (AT/CVT)","2nd Owner","Chandigarh / Tricity",CH-01,105020,23197
+652,"TVS Motor","iQube Electric S / ST",Bike,2022,4,24973,Electric,"Automatic (AT/CVT)","1st Owner","Lucknow",UP-32,117000,65483
+653,"TVS Motor","iQube Electric S / ST",Bike,2016,10,57973,Electric,"Automatic (AT/CVT)","2nd Owner","Chandigarh / Tricity",CH-01,138060,30796
+654,"TVS Motor","Radeon 110",Bike,2022,4,24973,Petrol,"Manual","1st Owner","Lucknow",UP-32,62000,34221
+655,"TVS Motor","Radeon 110",Bike,2016,10,57973,Petrol,"Manual","2nd Owner","Chandigarh / Tricity",CH-01,73160,15869
+656,"TVS Motor","Sport 100",Bike,2022,4,24973,Petrol,"Manual","1st Owner","Lucknow",UP-32,59000,32516
+657,"TVS Motor","Sport 100",Bike,2016,10,57973,Petrol,"Manual","2nd Owner","Chandigarh / Tricity",CH-01,69620,15055
+658,"TVS Motor","XL100 Heavy Duty Moped",Bike,2022,4,24973,Petrol,"Automatic (AT/CVT)","1st Owner","Lucknow",UP-32,44999,24558
+659,"TVS Motor","XL100 Heavy Duty Moped",Bike,2016,10,57973,Petrol,"Automatic (AT/CVT)","2nd Owner","Chandigarh / Tricity",CH-01,53099,11255
+660,"Honda 2Wheelers","Activa 6G & Smart Key",Bike,2024,2,14964,Petrol,"Automatic (AT/CVT)","2nd Owner","Kochi (Cochin)",KL-07,76000,52751
+661,"Honda 2Wheelers","Activa 6G & Smart Key",Bike,2018,8,47964,Petrol,"Automatic (AT/CVT)","3rd Owner","Indore",MP-09,89680,19728
+662,"Honda 2Wheelers","Activa 125",Bike,2024,2,14964,Petrol,"Automatic (AT/CVT)","2nd Owner","Kochi (Cochin)",KL-07,80000,55599
+663,"Honda 2Wheelers","Activa 125",Bike,2018,8,47964,Petrol,"Automatic (AT/CVT)","3rd Owner","Indore",MP-09,94400,20827
+664,"Honda 2Wheelers","Dio 110 & 125",Bike,2024,2,14964,Petrol,"Automatic (AT/CVT)","2nd Owner","Kochi (Cochin)",KL-07,70000,48480
+665,"Honda 2Wheelers","Dio 110 & 125",Bike,2018,8,47964,Petrol,"Automatic (AT/CVT)","3rd Owner","Indore",MP-09,82600,18079
+666,"Honda 2Wheelers","Shine 125",Bike,2024,2,14964,Petrol,"Manual","2nd Owner","Kochi (Cochin)",KL-07,80000,55599
+667,"Honda 2Wheelers","Shine 125",Bike,2018,8,47964,Petrol,"Manual","3rd Owner","Indore",MP-09,94400,20827
+668,"Honda 2Wheelers","Shine 100",Bike,2024,2,14964,Petrol,"Manual","2nd Owner","Kochi (Cochin)",KL-07,65000,44920
+669,"Honda 2Wheelers","Shine 100",Bike,2018,8,47964,Petrol,"Manual","3rd Owner","Indore",MP-09,76700,16706
+670,"Honda 2Wheelers","SP 125",Bike,2024,2,14964,Petrol,"Manual","2nd Owner","Kochi (Cochin)",KL-07,86000,59870
+671,"Honda 2Wheelers","SP 125",Bike,2018,8,47964,Petrol,"Manual","3rd Owner","Indore",MP-09,101480,22476
+672,"Honda 2Wheelers","SP 160",Bike,2024,2,14964,Petrol,"Manual","2nd Owner","Kochi (Cochin)",KL-07,118000,82651
+673,"Honda 2Wheelers","SP 160",Bike,2018,8,47964,Petrol,"Manual","3rd Owner","Indore",MP-09,139240,31268
+674,"Honda 2Wheelers","Unicorn 160",Bike,2024,2,14964,Petrol,"Manual","2nd Owner","Kochi (Cochin)",KL-07,111000,77667
+675,"Honda 2Wheelers","Unicorn 160",Bike,2018,8,47964,Petrol,"Manual","3rd Owner","Indore",MP-09,130980,29345
+676,"Honda 2Wheelers","Hornet 2.0",Bike,2024,2,14964,Petrol,"Manual","2nd Owner","Kochi (Cochin)",KL-07,140000,98312
+677,"Honda 2Wheelers","Hornet 2.0",Bike,2018,8,47964,Petrol,"Manual","3rd Owner","Indore",MP-09,165200,37313
+678,"Honda 2Wheelers","CB200X",Bike,2024,2,14964,Petrol,"Manual","2nd Owner","Kochi (Cochin)",KL-07,147000,103296
+679,"Honda 2Wheelers","CB200X",Bike,2018,8,47964,Petrol,"Manual","3rd Owner","Indore",MP-09,173460,39236
+680,"Honda 2Wheelers","CB350 Hness",Bike,2024,2,14964,Petrol,"Manual","2nd Owner","Kochi (Cochin)",KL-07,210000,148145
+681,"Honda 2Wheelers","CB350 Hness",Bike,2018,8,47964,Petrol,"Manual","3rd Owner","Indore",MP-09,247800,56546
+682,"Honda 2Wheelers","CB350RS Scrambler",Bike,2024,2,14964,Petrol,"Manual","2nd Owner","Kochi (Cochin)",KL-07,218000,153840
+683,"Honda 2Wheelers","CB350RS Scrambler",Bike,2018,8,47964,Petrol,"Manual","3rd Owner","Indore",MP-09,257240,58744
+684,"Honda 2Wheelers","CBR650R (BigWing)",Bike,2024,2,14964,Petrol,"Manual","2nd Owner","Kochi (Cochin)",KL-07,935000,664270
+685,"Honda 2Wheelers","CBR650R (BigWing)",Bike,2018,8,47964,Petrol,"Manual","3rd Owner","Indore",MP-09,1103300,255747
+686,"Honda 2Wheelers","Transalp XL750",Bike,2024,2,14964,Petrol,"Manual","2nd Owner","Kochi (Cochin)",KL-07,1100000,781733
+687,"Honda 2Wheelers","Transalp XL750",Bike,2018,8,47964,Petrol,"Manual","3rd Owner","Indore",MP-09,1298000,301083
+688,"Honda 2Wheelers","Africa Twin Adventure Sports",Bike,2024,2,14964,Petrol,"DCT","2nd Owner","Kochi (Cochin)",KL-07,1600000,1137681
+689,"Honda 2Wheelers","Africa Twin Adventure Sports",Bike,2018,8,47964,Petrol,"DCT","3rd Owner","Indore",MP-09,1888000,438463
+690,"Honda 2Wheelers","Gold Wing Tour",Bike,2024,2,14964,Petrol,"DCT","2nd Owner","Kochi (Cochin)",KL-07,3980000,2831993
+691,"Honda 2Wheelers","Gold Wing Tour",Bike,2018,8,47964,Petrol,"DCT","3rd Owner","Indore",MP-09,4696400,1092394
+692,"Yamaha Motor","MT-15 V2",Bike,2016,10,55955,Petrol,"Manual","3rd Owner","Nagpur",MH-31,168000,36049
+693,"Yamaha Motor","MT-15 V2",Bike,2020,6,33955,Petrol,"Manual","1st Owner","Patna",BR-01,198240,83211
+694,"Yamaha Motor","YZF-R15 V4",Bike,2016,10,55955,Petrol,"Manual","3rd Owner","Nagpur",MH-31,183000,39294
+695,"Yamaha Motor","YZF-R15 V4",Bike,2020,6,33955,Petrol,"Manual","1st Owner","Patna",BR-01,215940,90670
+696,"Yamaha Motor","R15M Carbon Edition",Bike,2016,10,55955,Petrol,"Manual","3rd Owner","Nagpur",MH-31,198000,42538
+697,"Yamaha Motor","R15M Carbon Edition",Bike,2020,6,33955,Petrol,"Manual","1st Owner","Patna",BR-01,233640,98128
+698,"Yamaha Motor","FZ-S Fi Hybrid V4",Bike,2016,10,55955,Petrol,"Manual","3rd Owner","Nagpur",MH-31,129000,27614
+699,"Yamaha Motor","FZ-S Fi Hybrid V4",Bike,2020,6,33955,Petrol,"Manual","1st Owner","Patna",BR-01,152220,63818
+700,"Yamaha Motor","FZ-X Neo Retro",Bike,2016,10,55955,Petrol,"Manual","3rd Owner","Nagpur",MH-31,137000,29344
+701,"Yamaha Motor","FZ-X Neo Retro",Bike,2020,6,33955,Petrol,"Manual","1st Owner","Patna",BR-01,161660,67796
+702,"Yamaha Motor","Aerox 155 Maxi Scooter",Bike,2016,10,55955,Petrol,"Automatic (AT/CVT)","3rd Owner","Nagpur",MH-31,148000,31723
+703,"Yamaha Motor","Aerox 155 Maxi Scooter",Bike,2020,6,33955,Petrol,"Automatic (AT/CVT)","1st Owner","Patna",BR-01,174640,73266
+704,"Yamaha Motor","RayZR 125 Fi Hybrid",Bike,2016,10,55955,Petrol,"Automatic (AT/CVT)","3rd Owner","Nagpur",MH-31,85000,18096
+705,"Yamaha Motor","RayZR 125 Fi Hybrid",Bike,2020,6,33955,Petrol,"Automatic (AT/CVT)","1st Owner","Patna",BR-01,100300,41939
+706,"Yamaha Motor","Fascino 125 Fi Hybrid",Bike,2016,10,55955,Petrol,"Automatic (AT/CVT)","3rd Owner","Nagpur",MH-31,80000,17015
+707,"Yamaha Motor","Fascino 125 Fi Hybrid",Bike,2020,6,33955,Petrol,"Automatic (AT/CVT)","1st Owner","Patna",BR-01,94400,39453
+708,"Yamaha Motor","R3 Parallel-Twin",Bike,2016,10,55955,Petrol,"Manual","3rd Owner","Nagpur",MH-31,465000,100290
+709,"Yamaha Motor","R3 Parallel-Twin",Bike,2020,6,33955,Petrol,"Manual","1st Owner","Patna",BR-01,548700,230895
+710,"Yamaha Motor","MT-03 Hyper Naked",Bike,2016,10,55955,Petrol,"Manual","3rd Owner","Nagpur",MH-31,460000,99209
+711,"Yamaha Motor","MT-03 Hyper Naked",Bike,2020,6,33955,Petrol,"Manual","1st Owner","Patna",BR-01,542800,228408
+712,"KTM","Duke 390 (Gen 3)",Bike,2018,8,45946,Petrol,"Manual","1st Owner","Visakhapatnam (Vizag)",AP-31/32,311000,88127
+713,"KTM","Duke 390 (Gen 3)",Bike,2022,4,23946,Petrol,"Manual","2nd Owner","Vadodara",GJ-06,366980,195194
+714,"KTM","Duke 250",Bike,2018,8,45946,Petrol,"Manual","1st Owner","Visakhapatnam (Vizag)",AP-31/32,241000,68135
+715,"KTM","Duke 250",Bike,2022,4,23946,Petrol,"Manual","2nd Owner","Vadodara",GJ-06,284380,151119
+716,"KTM","Duke 200",Bike,2018,8,45946,Petrol,"Manual","1st Owner","Visakhapatnam (Vizag)",AP-31/32,198000,55854
+717,"KTM","Duke 200",Bike,2022,4,23946,Petrol,"Manual","2nd Owner","Vadodara",GJ-06,233640,124044
+718,"KTM","RC 390 GP Edition",Bike,2018,8,45946,Petrol,"Manual","1st Owner","Visakhapatnam (Vizag)",AP-31/32,318000,90126
+719,"KTM","RC 390 GP Edition",Bike,2022,4,23946,Petrol,"Manual","2nd Owner","Vadodara",GJ-06,375240,199601
+720,"KTM","RC 200",Bike,2018,8,45946,Petrol,"Manual","1st Owner","Visakhapatnam (Vizag)",AP-31/32,218000,61566
+721,"KTM","RC 200",Bike,2022,4,23946,Petrol,"Manual","2nd Owner","Vadodara",GJ-06,257240,136637
+722,"KTM","390 Adventure Spoke",Bike,2018,8,45946,Petrol,"Manual","1st Owner","Visakhapatnam (Vizag)",AP-31/32,360000,102121
+723,"KTM","390 Adventure Spoke",Bike,2022,4,23946,Petrol,"Manual","2nd Owner","Vadodara",GJ-06,424800,226047
+724,"KTM","250 Adventure",Bike,2018,8,45946,Petrol,"Manual","1st Owner","Visakhapatnam (Vizag)",AP-31/32,247000,69848
+725,"KTM","250 Adventure",Bike,2022,4,23946,Petrol,"Manual","2nd Owner","Vadodara",GJ-06,291460,154896
+726,"Suzuki Motorcycle","Hayabusa GSX1300R",Bike,2020,6,35937,Petrol,"Manual","2nd Owner","Noida / Greater Noida",UP-16,1690000,654266
+727,"Suzuki Motorcycle","Hayabusa GSX1300R",Bike,2024,2,13937,Petrol,"Manual","3rd Owner","Gurugram (Gurgaon)",HR-26/55,1994200,1209760
+728,"Suzuki Motorcycle","Access 125 Ride Connect",Bike,2020,6,35937,Petrol,"Automatic (AT/CVT)","2nd Owner","Noida / Greater Noida",UP-16,80000,30088
+729,"Suzuki Motorcycle","Access 125 Ride Connect",Bike,2024,2,13937,Petrol,"Automatic (AT/CVT)","3rd Owner","Gurugram (Gurgaon)",HR-26/55,94400,56452
+730,"Suzuki Motorcycle","Burgman Street 125 EX",Bike,2020,6,35937,Petrol,"Automatic (AT/CVT)","2nd Owner","Noida / Greater Noida",UP-16,94000,35516
+731,"Suzuki Motorcycle","Burgman Street 125 EX",Bike,2024,2,13937,Petrol,"Automatic (AT/CVT)","3rd Owner","Gurugram (Gurgaon)",HR-26/55,110920,66481
+732,"Suzuki Motorcycle","Avenis 125",Bike,2020,6,35937,Petrol,"Automatic (AT/CVT)","2nd Owner","Noida / Greater Noida",UP-16,92000,34740
+733,"Suzuki Motorcycle","Avenis 125",Bike,2024,2,13937,Petrol,"Automatic (AT/CVT)","3rd Owner","Gurugram (Gurgaon)",HR-26/55,108560,65048
+734,"Suzuki Motorcycle","Gixxer SF 250",Bike,2020,6,35937,Petrol,"Manual","2nd Owner","Noida / Greater Noida",UP-16,192000,73509
+735,"Suzuki Motorcycle","Gixxer SF 250",Bike,2024,2,13937,Petrol,"Manual","3rd Owner","Gurugram (Gurgaon)",HR-26/55,226560,136682
+736,"Suzuki Motorcycle","Gixxer 250 Naked",Bike,2020,6,35937,Petrol,"Manual","2nd Owner","Noida / Greater Noida",UP-16,181000,69245
+737,"Suzuki Motorcycle","Gixxer 250 Naked",Bike,2024,2,13937,Petrol,"Manual","3rd Owner","Gurugram (Gurgaon)",HR-26/55,213580,128803
+738,"Suzuki Motorcycle","Gixxer 155 & SF",Bike,2020,6,35937,Petrol,"Manual","2nd Owner","Noida / Greater Noida",UP-16,135000,51411
+739,"Suzuki Motorcycle","Gixxer 155 & SF",Bike,2024,2,13937,Petrol,"Manual","3rd Owner","Gurugram (Gurgaon)",HR-26/55,159300,95851
+740,"Suzuki Motorcycle","V-Strom SX 250",Bike,2020,6,35937,Petrol,"Manual","2nd Owner","Noida / Greater Noida",UP-16,212000,81263
+741,"Suzuki Motorcycle","V-Strom SX 250",Bike,2024,2,13937,Petrol,"Manual","3rd Owner","Gurugram (Gurgaon)",HR-26/55,250160,151009
+742,"Suzuki Motorcycle","V-Strom 800DE",Bike,2020,6,35937,Petrol,"Manual","2nd Owner","Noida / Greater Noida",UP-16,1030000,398392
+743,"Suzuki Motorcycle","V-Strom 800DE",Bike,2024,2,13937,Petrol,"Manual","3rd Owner","Gurugram (Gurgaon)",HR-26/55,1215400,736976
+744,"Suzuki Motorcycle","Katana GSX-S1000S",Bike,2020,6,35937,Petrol,"Manual","2nd Owner","Noida / Greater Noida",UP-16,1361000,526717
+745,"Suzuki Motorcycle","Katana GSX-S1000S",Bike,2024,2,13937,Petrol,"Manual","3rd Owner","Gurugram (Gurgaon)",HR-26/55,1605980,974084
+746,"Kawasaki","Ninja 300 ABS",Bike,2022,4,25928,Petrol,"Manual","3rd Owner","Ghaziabad",UP-14,343000,162636
+747,"Kawasaki","Ninja 300 ABS",Bike,2016,10,58928,Petrol,"Manual","1st Owner","Bhubaneswar",OD-02,404740,97814
+748,"Kawasaki","Ninja 500",Bike,2022,4,25928,Petrol,"Manual","3rd Owner","Ghaziabad",UP-14,524000,249055
+749,"Kawasaki","Ninja 500",Bike,2016,10,58928,Petrol,"Manual","1st Owner","Bhubaneswar",OD-02,618320,150141
+750,"Kawasaki","Ninja 650",Bike,2022,4,25928,Petrol,"Manual","3rd Owner","Ghaziabad",UP-14,716000,340727
+751,"Kawasaki","Ninja 650",Bike,2016,10,58928,Petrol,"Manual","1st Owner","Bhubaneswar",OD-02,844880,205648
+752,"Kawasaki","Ninja ZX-4R / ZX-4RR",Bike,2022,4,25928,Petrol,"Manual","3rd Owner","Ghaziabad",UP-14,879000,418552
+753,"Kawasaki","Ninja ZX-4R / ZX-4RR",Bike,2016,10,58928,Petrol,"Manual","1st Owner","Bhubaneswar",OD-02,1037220,252772
+754,"Kawasaki","Ninja ZX-6R",Bike,2022,4,25928,Petrol,"Manual","3rd Owner","Ghaziabad",UP-14,1120000,533619
+755,"Kawasaki","Ninja ZX-6R",Bike,2016,10,58928,Petrol,"Manual","1st Owner","Bhubaneswar",OD-02,1321600,322445
+756,"Kawasaki","Ninja ZX-10R",Bike,2022,4,25928,Petrol,"Manual","3rd Owner","Ghaziabad",UP-14,1679000,800517
+757,"Kawasaki","Ninja ZX-10R",Bike,2016,10,58928,Petrol,"Manual","1st Owner","Bhubaneswar",OD-02,1981220,484052
+758,"Kawasaki","Z900 Supernaked",Bike,2022,4,25928,Petrol,"Manual","3rd Owner","Ghaziabad",UP-14,938000,446722
+759,"Kawasaki","Z900 Supernaked",Bike,2016,10,58928,Petrol,"Manual","1st Owner","Bhubaneswar",OD-02,1106840,269828
+760,"Kawasaki","Z650",Bike,2022,4,25928,Petrol,"Manual","3rd Owner","Ghaziabad",UP-14,665000,316377
+761,"Kawasaki","Z650",Bike,2016,10,58928,Petrol,"Manual","1st Owner","Bhubaneswar",OD-02,784700,190904
+762,"Kawasaki","Versys 650 Adventure",Bike,2022,4,25928,Petrol,"Manual","3rd Owner","Ghaziabad",UP-14,777000,369852
+763,"Kawasaki","Versys 650 Adventure",Bike,2016,10,58928,Petrol,"Manual","1st Owner","Bhubaneswar",OD-02,916860,223283
+764,"Kawasaki","W175 Retro",Bike,2022,4,25928,Petrol,"Manual","3rd Owner","Ghaziabad",UP-14,122000,57118
+765,"Kawasaki","W175 Retro",Bike,2016,10,58928,Petrol,"Manual","1st Owner","Bhubaneswar",OD-02,143960,33923
+766,"Harley-Davidson","X440 (Made in India with Hero)",Bike,2024,2,11919,Petrol,"Manual","1st Owner","Ranchi",JH-01,239500,169278
+767,"Harley-Davidson","X440 (Made in India with Hero)",Bike,2018,8,44919,Petrol,"Manual","2nd Owner","Raipur",CG-04,282610,71054
+768,"Harley-Davidson","Nightster 975",Bike,2024,2,11919,Petrol,"Manual","1st Owner","Ranchi",JH-01,1340000,948542
+769,"Harley-Davidson","Nightster 975",Bike,2018,8,44919,Petrol,"Manual","2nd Owner","Raipur",CG-04,1581200,398881
+770,"Harley-Davidson","Sportster S",Bike,2024,2,11919,Petrol,"Manual","1st Owner","Ranchi",JH-01,1650000,1168053
+771,"Harley-Davidson","Sportster S",Bike,2018,8,44919,Petrol,"Manual","2nd Owner","Raipur",CG-04,1947000,491226
+772,"Harley-Davidson","Fat Boy 114",Bike,2024,2,11919,Petrol,"Manual","1st Owner","Ranchi",JH-01,2570000,1819505
+773,"Harley-Davidson","Fat Boy 114",Bike,2018,8,44919,Petrol,"Manual","2nd Owner","Raipur",CG-04,3032600,765284
+774,"Harley-Davidson","Breakout 117",Bike,2024,2,11919,Petrol,"Manual","1st Owner","Ranchi",JH-01,3099000,2194090
+775,"Harley-Davidson","Breakout 117",Bike,2018,8,44919,Petrol,"Manual","2nd Owner","Raipur",CG-04,3656820,922867
+776,"Harley-Davidson","Pan America 1250 Special",Bike,2024,2,11919,Petrol,"Manual","1st Owner","Ranchi",JH-01,2460000,1741614
+777,"Harley-Davidson","Pan America 1250 Special",Bike,2018,8,44919,Petrol,"Manual","2nd Owner","Raipur",CG-04,2902800,732516
+778,"Harley-Davidson","Street Glide Special",Bike,2024,2,11919,Petrol,"Manual","1st Owner","Ranchi",JH-01,3880000,2747116
+779,"Harley-Davidson","Street Glide Special",Bike,2018,8,44919,Petrol,"Manual","2nd Owner","Raipur",CG-04,4578400,1155518
+780,"Triumph Motorcycles","Speed 400 (Made in India)",Bike,2016,10,56910,Petrol,"Manual","2nd Owner","Goa (Panaji / Margao)",GA-01/02,240000,55677
+781,"Triumph Motorcycles","Speed 400 (Made in India)",Bike,2020,6,34910,Petrol,"Manual","3rd Owner","Mysuru (Mysore)",KA-09,283200,108851
+782,"Triumph Motorcycles","Scrambler 400 X",Bike,2016,10,56910,Petrol,"Manual","2nd Owner","Goa (Panaji / Margao)",GA-01/02,264000,61307
+783,"Triumph Motorcycles","Scrambler 400 X",Bike,2020,6,34910,Petrol,"Manual","3rd Owner","Mysuru (Mysore)",KA-09,311520,119797
+784,"Triumph Motorcycles","Speed T4 (Accessible)",Bike,2016,10,56910,Petrol,"Manual","2nd Owner","Goa (Panaji / Margao)",GA-01/02,217000,50281
+785,"Triumph Motorcycles","Speed T4 (Accessible)",Bike,2020,6,34910,Petrol,"Manual","3rd Owner","Mysuru (Mysore)",KA-09,256060,98362
+786,"Triumph Motorcycles","Street Triple 765 R / RS",Bike,2016,10,56910,Petrol,"Manual","2nd Owner","Goa (Panaji / Margao)",GA-01/02,1043000,244060
+787,"Triumph Motorcycles","Street Triple 765 R / RS",Bike,2020,6,34910,Petrol,"Manual","3rd Owner","Mysuru (Mysore)",KA-09,1230740,475060
+788,"Triumph Motorcycles","Tiger 900 GT / Rally Pro",Bike,2016,10,56910,Petrol,"Manual","2nd Owner","Goa (Panaji / Margao)",GA-01/02,1415000,331332
+789,"Triumph Motorcycles","Tiger 900 GT / Rally Pro",Bike,2020,6,34910,Petrol,"Manual","3rd Owner","Mysuru (Mysore)",KA-09,1669700,644711
+790,"Triumph Motorcycles","Tiger 1200 Rally Explorer",Bike,2016,10,56910,Petrol,"Manual","2nd Owner","Goa (Panaji / Margao)",GA-01/02,2060000,482649
+791,"Triumph Motorcycles","Tiger 1200 Rally Explorer",Bike,2020,6,34910,Petrol,"Manual","3rd Owner","Mysuru (Mysore)",KA-09,2430800,938864
+792,"Triumph Motorcycles","Bonneville T100 & T120",Bike,2016,10,56910,Petrol,"Manual","2nd Owner","Goa (Panaji / Margao)",GA-01/02,999000,233738
+793,"Triumph Motorcycles","Bonneville T100 & T120",Bike,2020,6,34910,Petrol,"Manual","3rd Owner","Mysuru (Mysore)",KA-09,1178820,454994
+794,"Triumph Motorcycles","Rocket 3 R / GT (2500cc)",Bike,2016,10,56910,Petrol,"Manual","2nd Owner","Goa (Panaji / Margao)",GA-01/02,2260000,529569
+795,"Triumph Motorcycles","Rocket 3 R / GT (2500cc)",Bike,2020,6,34910,Petrol,"Manual","3rd Owner","Mysuru (Mysore)",KA-09,2666800,1030075
+796,"Triumph Motorcycles","Daytona 660",Bike,2016,10,56910,Petrol,"Manual","2nd Owner","Goa (Panaji / Margao)",GA-01/02,972000,227404
+797,"Triumph Motorcycles","Daytona 660",Bike,2020,6,34910,Petrol,"Manual","3rd Owner","Mysuru (Mysore)",KA-09,1146960,442681
+798,"Triumph Motorcycles","Trident 660",Bike,2016,10,56910,Petrol,"Manual","2nd Owner","Goa (Panaji / Margao)",GA-01/02,825000,192918
+799,"Triumph Motorcycles","Trident 660",Bike,2020,6,34910,Petrol,"Manual","3rd Owner","Mysuru (Mysore)",KA-09,973500,375641
+800,"Ducati","Monster Plus",Bike,2018,8,46901,Petrol,"Manual","3rd Owner","Jalandhar",PB-08,1299000,304672
+801,"Ducati","Monster Plus",Bike,2022,4,24901,Petrol,"Manual","1st Owner","Varanasi",UP-65,1532820,870260
+802,"Ducati","Panigale V2 & V2 Bayliss",Bike,2018,8,46901,Petrol,"Manual","3rd Owner","Jalandhar",PB-08,2098000,492597
+803,"Ducati","Panigale V2 & V2 Bayliss",Bike,2022,4,24901,Petrol,"Manual","1st Owner","Varanasi",UP-65,2475640,1406159
+804,"Ducati","Panigale V4 / V4 S",Bike,2018,8,46901,Petrol,"Manual","3rd Owner","Jalandhar",PB-08,2773000,651357
+805,"Ducati","Panigale V4 / V4 S",Bike,2022,4,24901,Petrol,"Manual","1st Owner","Varanasi",UP-65,3272140,1858889
+806,"Ducati","Streetfighter V2 & V4",Bike,2018,8,46901,Petrol,"Manual","3rd Owner","Jalandhar",PB-08,1850000,434267
+807,"Ducati","Streetfighter V2 & V4",Bike,2022,4,24901,Petrol,"Manual","1st Owner","Varanasi",UP-65,2183000,1239822
+808,"Ducati","Multistrada V4 S / Rally",Bike,2018,8,46901,Petrol,"Manual","3rd Owner","Jalandhar",PB-08,2673000,627837
+809,"Ducati","Multistrada V4 S / Rally",Bike,2022,4,24901,Petrol,"Manual","1st Owner","Varanasi",UP-65,3154140,1791818
+810,"Ducati","Scrambler Icon / Full Throttle",Bike,2018,8,46901,Petrol,"Manual","3rd Owner","Jalandhar",PB-08,1039000,243520
+811,"Ducati","Scrambler Icon / Full Throttle",Bike,2022,4,24901,Petrol,"Manual","1st Owner","Varanasi",UP-65,1226020,695875
+812,"Ducati","Diavel V4",Bike,2018,8,46901,Petrol,"Manual","3rd Owner","Jalandhar",PB-08,2591000,608550
+813,"Ducati","Diavel V4",Bike,2022,4,24901,Petrol,"Manual","1st Owner","Varanasi",UP-65,3057380,1736820
+814,"Ducati","Hypermotard 698 Mono",Bike,2018,8,46901,Petrol,"Manual","3rd Owner","Jalandhar",PB-08,1650000,387227
+815,"Ducati","Hypermotard 698 Mono",Bike,2022,4,24901,Petrol,"Manual","1st Owner","Varanasi",UP-65,1947000,1105680
+816,"BMW Motorrad","G 310 R (Made in India)",Bike,2020,6,36892,Petrol,"Manual","1st Owner","Agra",UP-80,290000,120871
+817,"BMW Motorrad","G 310 R (Made in India)",Bike,2024,2,14892,Petrol,"Manual","2nd Owner","Meerut",UP-15,342200,223997
+818,"BMW Motorrad","G 310 GS Adventure",Bike,2020,6,36892,Petrol,"Manual","1st Owner","Agra",UP-80,330000,137727
+819,"BMW Motorrad","G 310 GS Adventure",Bike,2024,2,14892,Petrol,"Manual","2nd Owner","Meerut",UP-15,389400,255062
+820,"BMW Motorrad","G 310 RR Supersport",Bike,2020,6,36892,Petrol,"Manual","1st Owner","Agra",UP-80,305000,127192
+821,"BMW Motorrad","G 310 RR Supersport",Bike,2024,2,14892,Petrol,"Manual","2nd Owner","Meerut",UP-15,359900,235647
+822,"BMW Motorrad","S 1000 RR Superbike",Bike,2020,6,36892,Petrol,"Manual","1st Owner","Agra",UP-80,2075000,873070
+823,"BMW Motorrad","S 1000 RR Superbike",Bike,2024,2,14892,Petrol,"Manual","2nd Owner","Meerut",UP-15,2448500,1610296
+824,"BMW Motorrad","M 1000 RR Carbon",Bike,2020,6,36892,Petrol,"Manual","1st Owner","Agra",UP-80,4900000,2063525
+825,"BMW Motorrad","M 1000 RR Carbon",Bike,2024,2,14892,Petrol,"Manual","2nd Owner","Meerut",UP-15,5782000,3804299
+826,"BMW Motorrad","R 1300 GS Adventure",Bike,2020,6,36892,Petrol,"Manual","1st Owner","Agra",UP-80,2095000,881498
+827,"BMW Motorrad","R 1300 GS Adventure",Bike,2024,2,14892,Petrol,"Manual","2nd Owner","Meerut",UP-15,2472100,1625829
+828,"BMW Motorrad","R 1250 GS Adventure",Bike,2020,6,36892,Petrol,"Manual","1st Owner","Agra",UP-80,2250000,946815
+829,"BMW Motorrad","R 1250 GS Adventure",Bike,2024,2,14892,Petrol,"Manual","2nd Owner","Meerut",UP-15,2655000,1746208
+830,"BMW Motorrad","F 900 GS / GS Adventure",Bike,2020,6,36892,Petrol,"Manual","1st Owner","Agra",UP-80,1375000,578090
+831,"BMW Motorrad","F 900 GS / GS Adventure",Bike,2024,2,14892,Petrol,"Manual","2nd Owner","Meerut",UP-15,1622500,1066649
+832,"BMW Motorrad","R 18 Transcontinental",Bike,2020,6,36892,Petrol,"Manual","1st Owner","Agra",UP-80,3150000,1326075
+833,"BMW Motorrad","R 18 Transcontinental",Bike,2024,2,14892,Petrol,"Manual","2nd Owner","Meerut",UP-15,3717000,2445182
+834,"BMW Motorrad","CE 04 Futuristic Electric",Bike,2020,6,36892,Electric,"Automatic (AT/CVT)","1st Owner","Agra",UP-80,1490000,626551
+835,"BMW Motorrad","CE 04 Futuristic Electric",Bike,2024,2,14892,Electric,"Automatic (AT/CVT)","2nd Owner","Meerut",UP-15,1758200,1155963
+836,"Jawa Motorcycles","Jawa 350 Classic",Bike,2022,4,22883,Petrol,"Manual","2nd Owner","Chhatrapati Sambhajinagar",MH-20,214950,117845
+837,"Jawa Motorcycles","Jawa 350 Classic",Bike,2016,10,55883,Petrol,"Manual","3rd Owner","Rajkot",GJ-03,253641,53005
+838,"Jawa Motorcycles","Jawa 42 FJ 350",Bike,2022,4,22883,Petrol,"Manual","2nd Owner","Chhatrapati Sambhajinagar",MH-20,199142,109157
+839,"Jawa Motorcycles","Jawa 42 FJ 350",Bike,2016,10,55883,Petrol,"Manual","3rd Owner","Rajkot",GJ-03,234988,49088
+840,"Jawa Motorcycles","Jawa 42 Bobber",Bike,2022,4,22883,Petrol,"Manual","2nd Owner","Chhatrapati Sambhajinagar",MH-20,209500,114850
+841,"Jawa Motorcycles","Jawa 42 Bobber",Bike,2016,10,55883,Petrol,"Manual","3rd Owner","Rajkot",GJ-03,247210,51654
+842,"Jawa Motorcycles","Jawa Perak Factory Custom",Bike,2022,4,22883,Petrol,"Manual","2nd Owner","Chhatrapati Sambhajinagar",MH-20,213187,116876
+843,"Jawa Motorcycles","Jawa Perak Factory Custom",Bike,2016,10,55883,Petrol,"Manual","3rd Owner","Rajkot",GJ-03,251561,52568
+844,"Yezdi","Yezdi Adventure",Bike,2024,2,12874,Petrol,"Manual","3rd Owner","Udaipur",RJ-27,215900,130521
+845,"Yezdi","Yezdi Adventure",Bike,2018,8,45874,Petrol,"Manual","1st Owner","Madurai",TN-58/59,254762,72798
+846,"Yezdi","Yezdi Scrambler",Bike,2024,2,12874,Petrol,"Manual","3rd Owner","Udaipur",RJ-27,212900,128699
+847,"Yezdi","Yezdi Scrambler",Bike,2018,8,45874,Petrol,"Manual","1st Owner","Madurai",TN-58/59,251222,71777
+848,"Yezdi","Yezdi Roadster",Bike,2024,2,12874,Petrol,"Manual","3rd Owner","Udaipur",RJ-27,209870,126860
+849,"Yezdi","Yezdi Roadster",Bike,2018,8,45874,Petrol,"Manual","1st Owner","Madurai",TN-58/59,247647,70746
+850,"Aprilia India","RS 457 (Made in India)",Bike,2016,10,57865,Petrol,"Manual","1st Owner","Salem",TN-30,410000,103527
+851,"Aprilia India","RS 457 (Made in India)",Bike,2020,6,35865,Petrol,"Manual","2nd Owner","Thiruvananthapuram",KL-01,483800,201897
+852,"Aprilia India","SR 160 & Race Edition",Bike,2016,10,57865,Petrol,"Automatic (AT/CVT)","1st Owner","Salem",TN-30,133000,32892
+853,"Aprilia India","SR 160 & Race Edition",Bike,2020,6,35865,Petrol,"Automatic (AT/CVT)","2nd Owner","Thiruvananthapuram",KL-01,156940,64833
+854,"Aprilia India","SR 125",Bike,2016,10,57865,Petrol,"Automatic (AT/CVT)","1st Owner","Salem",TN-30,123000,30342
+855,"Aprilia India","SR 125",Bike,2020,6,35865,Petrol,"Automatic (AT/CVT)","2nd Owner","Thiruvananthapuram",KL-01,145140,59885
+856,"Aprilia India","SXR 160 Maxi",Bike,2016,10,57865,Petrol,"Automatic (AT/CVT)","1st Owner","Salem",TN-30,146000,36207
+857,"Aprilia India","SXR 160 Maxi",Bike,2020,6,35865,Petrol,"Automatic (AT/CVT)","2nd Owner","Thiruvananthapuram",KL-01,172280,71265
+858,"Aprilia India","RSV4 Factory 1100",Bike,2016,10,57865,Petrol,"Manual","1st Owner","Salem",TN-30,3126000,796107
+859,"Aprilia India","RSV4 Factory 1100",Bike,2020,6,35865,Petrol,"Manual","2nd Owner","Thiruvananthapuram",KL-01,3688680,1545818
+860,"Aprilia India","Tuono V4 Factory",Bike,2016,10,57865,Petrol,"Manual","1st Owner","Salem",TN-30,2066000,525807
+861,"Aprilia India","Tuono V4 Factory",Bike,2020,6,35865,Petrol,"Manual","2nd Owner","Thiruvananthapuram",KL-01,2437880,1021313
+862,"Aprilia India","Tuareg 660",Bike,2016,10,57865,Petrol,"Manual","1st Owner","Salem",TN-30,1885000,479652
+863,"Aprilia India","Tuareg 660",Bike,2020,6,35865,Petrol,"Manual","2nd Owner","Thiruvananthapuram",KL-01,2224300,931751
+864,"Ather Energy","450X Gen 3.1 (3.7 kWh)",Bike,2018,8,47856,Electric,"Automatic (AT/CVT)","2nd Owner","Thrissur",KL-08,144999,37916
+865,"Ather Energy","450X Gen 3.1 (3.7 kWh)",Bike,2022,4,25856,Electric,"Automatic (AT/CVT)","3rd Owner","Vijayawada",AP-16,171099,83870
+866,"Ather Energy","450S (2.9 kWh)",Bike,2018,8,47856,Electric,"Automatic (AT/CVT)","2nd Owner","Thrissur",KL-08,115599,29964
+867,"Ather Energy","450S (2.9 kWh)",Bike,2022,4,25856,Electric,"Automatic (AT/CVT)","3rd Owner","Vijayawada",AP-16,136407,66630
+868,"Ather Energy","450 Apex Limited",Bike,2018,8,47856,Electric,"Automatic (AT/CVT)","2nd Owner","Thrissur",KL-08,189000,49817
+869,"Ather Energy","450 Apex Limited",Bike,2022,4,25856,Electric,"Automatic (AT/CVT)","3rd Owner","Vijayawada",AP-16,223020,109672
+870,"Ather Energy","Rizta Family Scooter",Bike,2018,8,47856,Electric,"Automatic (AT/CVT)","2nd Owner","Thrissur",KL-08,112000,28990
+871,"Ather Energy","Rizta Family Scooter",Bike,2022,4,25856,Electric,"Automatic (AT/CVT)","3rd Owner","Vijayawada",AP-16,132160,64520
+872,"Ola Electric","S1 Pro Gen 2",Bike,2020,6,33847,Electric,"Automatic (AT/CVT)","3rd Owner","Shimla",HP-01/02/03,134999,48027
+873,"Ola Electric","S1 Pro Gen 2",Bike,2024,2,11847,Electric,"Automatic (AT/CVT)","1st Owner","Srinagar / Jammu",JK-01/02,159299,113672
+874,"Ola Electric","S1 Air",Bike,2020,6,33847,Electric,"Automatic (AT/CVT)","3rd Owner","Shimla",HP-01/02/03,104999,37300
+875,"Ola Electric","S1 Air",Bike,2024,2,11847,Electric,"Automatic (AT/CVT)","1st Owner","Srinagar / Jammu",JK-01/02,123899,88347
+876,"Ola Electric","S1 X & X Plus",Bike,2020,6,33847,Electric,"Automatic (AT/CVT)","3rd Owner","Shimla",HP-01/02/03,74999,26572
+877,"Ola Electric","S1 X & X Plus",Bike,2024,2,11847,Electric,"Automatic (AT/CVT)","1st Owner","Srinagar / Jammu",JK-01/02,88499,63022
+878,"Ola Electric","Roadster Pro Motorcycle",Bike,2020,6,33847,Electric,"Automatic (AT/CVT)","3rd Owner","Shimla",HP-01/02/03,199999,71271
+879,"Ola Electric","Roadster Pro Motorcycle",Bike,2024,2,11847,Electric,"Automatic (AT/CVT)","1st Owner","Srinagar / Jammu",JK-01/02,235999,168543
+880,"Ola Electric","Roadster X",Bike,2020,6,33847,Electric,"Automatic (AT/CVT)","3rd Owner","Shimla",HP-01/02/03,74999,26572
+881,"Ola Electric","Roadster X",Bike,2024,2,11847,Electric,"Automatic (AT/CVT)","1st Owner","Srinagar / Jammu",JK-01/02,88499,63022
+882,"Ultraviolette Automotive","F77 Mach 2",Bike,2022,4,23838,Electric,"Automatic (AT/CVT)","1st Owner","Mumbai",MH-01/02,299000,181416
+883,"Ultraviolette Automotive","F77 Mach 2",Bike,2016,10,56838,Electric,"Automatic (AT/CVT)","2nd Owner","Bengaluru",KA-01/03/05,352820,87807
+884,"Ultraviolette Automotive","F77 Mach 2 Recon",Bike,2022,4,23838,Electric,"Automatic (AT/CVT)","1st Owner","Mumbai",MH-01/02,399000,242316
+885,"Ultraviolette Automotive","F77 Mach 2 Recon",Bike,2016,10,56838,Electric,"Automatic (AT/CVT)","2nd Owner","Bengaluru",KA-01/03/05,470820,117389
+886,"Ultraviolette Automotive","F99 Factory Racing",Bike,2022,4,23838,Electric,"Automatic (AT/CVT)","1st Owner","Mumbai",MH-01/02,800000,486525
+887,"Ultraviolette Automotive","F99 Factory Racing",Bike,2016,10,56838,Electric,"Automatic (AT/CVT)","2nd Owner","Bengaluru",KA-01/03/05,944000,236016
+888,"Vespa India","VZX 125 Classic",Bike,2024,2,13829,Petrol,"Automatic (AT/CVT)","2nd Owner","Chennai",TN-01/02/07,117000,80773
+889,"Vespa India","VZX 125 Classic",Bike,2018,8,46829,Petrol,"Automatic (AT/CVT)","3rd Owner","Kolkata",WB-01/02,138060,30691
+890,"Vespa India","SXL 150 Dual Tone",Bike,2024,2,13829,Petrol,"Automatic (AT/CVT)","2nd Owner","Chennai",TN-01/02/07,148000,102425
+891,"Vespa India","SXL 150 Dual Tone",Bike,2018,8,46829,Petrol,"Automatic (AT/CVT)","3rd Owner","Kolkata",WB-01/02,174640,39036
+892,"Vespa India","Vespa 946 Dragon Edition",Bike,2024,2,13829,Petrol,"Automatic (AT/CVT)","2nd Owner","Chennai",TN-01/02/07,1428000,996459
+893,"Vespa India","Vespa 946 Dragon Edition",Bike,2018,8,46829,Petrol,"Automatic (AT/CVT)","3rd Owner","Kolkata",WB-01/02,1685040,383625
+894,"Benelli India","TRK 502 & 502X",Bike,2016,10,58820,Petrol,"Manual","3rd Owner","Ahmedabad",GJ-01/27,585000,122944
+895,"Benelli India","TRK 502 & 502X",Bike,2020,6,36820,Petrol,"Manual","1st Owner","Jaipur",RJ-14,690300,292537
+896,"Benelli India","Imperiale 400",Bike,2016,10,58820,Petrol,"Manual","3rd Owner","Ahmedabad",GJ-01/27,235000,48709
+897,"Benelli India","Imperiale 400",Bike,2020,6,36820,Petrol,"Manual","1st Owner","Jaipur",RJ-14,277300,116723
+898,"Benelli India","Leoncino 500 Scrambler",Bike,2016,10,58820,Petrol,"Manual","3rd Owner","Ahmedabad",GJ-01/27,560000,117642
+899,"Benelli India","Leoncino 500 Scrambler",Bike,2020,6,36820,Petrol,"Manual","1st Owner","Jaipur",RJ-14,660800,279979
+900,"Benelli India","502C Urban Cruiser",Bike,2016,10,58820,Petrol,"Manual","3rd Owner","Ahmedabad",GJ-01/27,580000,121884
+901,"Benelli India","502C Urban Cruiser",Bike,2020,6,36820,Petrol,"Manual","1st Owner","Jaipur",RJ-14,684400,290025
+902,"Revolt Motors","RV400 BRZ Electric",Bike,2018,8,44811,Electric,"Automatic (AT/CVT)","1st Owner","Chandigarh / Tricity",CH-01,138000,38356
+903,"Revolt Motors","RV400 BRZ Electric",Bike,2022,4,22811,Electric,"Automatic (AT/CVT)","2nd Owner","Surat",GJ-05,162840,87497
+904,"Revolt Motors","RV400 Fast Charge",Bike,2018,8,44811,Electric,"Automatic (AT/CVT)","1st Owner","Chandigarh / Tricity",CH-01,149950,41702
+905,"Revolt Motors","RV400 Fast Charge",Bike,2022,4,22811,Electric,"Automatic (AT/CVT)","2nd Owner","Surat",GJ-05,176941,95096
+906,"Revolt Motors","RV1 & RV1 Plus",Bike,2018,8,44811,Electric,"Automatic (AT/CVT)","1st Owner","Chandigarh / Tricity",CH-01,84990,23513
+907,"Revolt Motors","RV1 & RV1 Plus",Bike,2022,4,22811,Electric,"Automatic (AT/CVT)","2nd Owner","Surat",GJ-05,100288,53785
